@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "8f57fd088766240c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b20cefa8b802f0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa00a301694924ac",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/Elektronik II/Praktika/EL2-Praktikum Stromspiegel Vorbereitung.pdf",
+                "page": 5,
+                "left": -14,
+                "top": 426,
+                "zoom": 1.0833333333333335
+              },
+              "icon": "lucide-file-text",
+              "title": "EL2-Praktikum Stromspiegel Vorbereitung"
+            }
+          },
+          {
+            "id": "d139b6b7e411f301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/IndaktM/KW18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KW18"
+            }
+          },
+          {
+            "id": "e70c643cc72c13de",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester I/Elektronik I/Vorlesung/04 Elektronik - Feldeffekttransistoren_RP.pdf",
+                "page": 12,
+                "left": -339,
+                "top": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "04 Elektronik - Feldeffekttransistoren_RP"
+            }
+          },
+          {
+            "id": "335b796b695d4d93",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/Elektronik II/Vorlesungsunterlagen/EL2-Kap02.pdf",
+                "page": 55,
+                "left": -339,
+                "top": 208,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "EL2-Kap02"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c79101d597ed2aaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0052c3aca8cda12c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eabc7a00109fe2df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44619a5f978a3b96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ccff51aa93b9292f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3b7bf3259b29e1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3616fda61534e6f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "624bcf81ec9b16c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FH_Münster/Semester II/Physik/Vorlesung Physik/Mathe Werkzeugkasten.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mathe Werkzeugkasten"
+            }
+          },
+          {
+            "id": "1f7ac34e37ccd943",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16df4e09b02205b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c70880d3c31689e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FH_Münster/Semester II/Elektronik II/Praktika/EL2-Praktikum Stromspiegel Vorbereitung.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for EL2-Praktikum Stromspiegel Vorbereitung"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "xournalpp:Create new Xournal++ note": false
+    }
+  },
+  "active": "d139b6b7e411f301",
+  "lastOpenFiles": [
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/PDFs/Xournal/V5_Mechanik_Impuls_2025.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/IndaktM/KW17.md",
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/PDFs/Xournal",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/IndaktM/KW18.md",
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/PDFs/V6_Drehbewegung_1_2025.pdf",
+    "FH_Münster/Semester II/Physik/Übungen/U5/U5_6.md",
+    "FH_Münster/Semester II/Physik/Übungen/U5/U5_2.md",
+    "FH_Münster/Semester II/Elektronik II/Praktika/EL2-Praktikum Stromspiegel Vorbereitung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsunterlagen/EL2-Kap02.pdf",
+    "FH_Münster/Semester I/Elektronik I/Vorlesung/04 Elektronik - Feldeffekttransistoren_RP.pdf",
+    "FH_Münster/Semester I/Elektronik I/Vorlesung/05 Elektronik - Tunnelbauelemente_RP.pdf",
+    "FH_Münster/Semester I/Elektronik I/Vorlesung/03 Elektronik - Bipolartransistoren_RP.pdf",
+    "FH_Münster/Semester I/Elektronik I/Vorlesung/02 Elektronik - Halbleiterdioden_RP.pdf",
+    "FH_Münster/Semester I/Elektronik I/Vorlesung/01 Elektronik - Einführung_RP.pdf",
+    "FH_Münster/Semester I/Elektronik I/Vorlesung/00 Elektronik - Literatur_RP.pdf",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/7.1 Ableitung einer Funktion.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/7. Differentialrechnung.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/6.3 Lineare Gleichungssysteme.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/IndaktM/KW15.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.3.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.24.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/IndaktM/KW16.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/Untitled.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 2 - Reihenschingkreise.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/Nitzsche Lösungen/A110L.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/A110.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Vorlesungsunterlagen/Vorlesung.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/Nitzsche Lösungen/W466L.md",
+    "FH_Münster/Semester II/Physik/Übungen/U5/U5_1.md",
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/Impuls.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/W466.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/6.2 Matrizen.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424200138.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424195938.png",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.7.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424195306.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424194816.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424194357.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424191605.png",
+    "FH_Münster/Semester II/Physik/Übungen/U4/U4_5.md",
+    "FH_Münster/Semester II/Physik/Übungen/U4/U4_4.md",
+    "FH_Münster/Semester II/Physik/Übungen/U4/U4_1.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250411203219.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250411200753.png",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Bilder/Pasted image 20250407191416.png",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Bilder/Pasted image 20250407191112.png",
+    "Untitled.canvas"
+  ]
+}

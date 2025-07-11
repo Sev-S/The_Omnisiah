@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "8f57fd088766240c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e8eae5ffc950bc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0ab437456f9f478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/6.3 Lineare Gleichungssysteme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.3 Lineare Gleichungssysteme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c79101d597ed2aaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0052c3aca8cda12c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eabc7a00109fe2df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44619a5f978a3b96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ccff51aa93b9292f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e3b7bf3259b29e1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3616fda61534e6f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "624bcf81ec9b16c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FH_Münster/Semester II/Physik/Vorlesung Physik/Mathe Werkzeugkasten.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mathe Werkzeugkasten"
+            }
+          },
+          {
+            "id": "1f7ac34e37ccd943",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16df4e09b02205b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c70880d3c31689e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FH_Münster/Semester II/Physik/Übungen/U4/U4_Mechani_Arbeit_Energie.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for U4_Mechani_Arbeit_Energie"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "e0ab437456f9f478",
+  "lastOpenFiles": [
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/PDFs/V5_Mechanik_Impuls_2025.pdf",
+    "FH_Münster/Semester II/Physik/Übungen/U5/U5_1.md",
+    "FH_Münster/Semester II/Physik/Übungen/U5/U5_Impuls.pdf",
+    "FH_Münster/Semester II/Physik/Übungen/U5",
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/Impuls.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/Nitzsche Lösungen/W466L.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/W466.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/6.3 Lineare Gleichungssysteme.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/6.2 Matrizen.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/IndaktM/KW16.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424200138.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424195938.png",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.7.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424195306.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424194816.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424194357.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424191605.png",
+    "FH_Münster/Semester II/Elektronik II/Praktika/EL2-Praktikum Differenzstufe-2024-Simulation.pdf",
+    "FH_Münster/Semester II/Physik/Übungen/U4/U4_Mechani_Arbeit_Energie.pdf",
+    "FH_Münster/Semester II/Physik/Übungen/U4/U4_5.md",
+    "FH_Münster/Semester II/Physik/Übungen/U4/U4_4.md",
+    "FH_Münster/Semester II/Physik/Übungen/U4/U4_1.md",
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/Energie,Arbeit.md",
+    "FH_Münster/Semester II/Physik/Übungen/U4",
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/PDFs/V4_Energie_Arbeit_Leistung_2025.pdf",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel02.md",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Übungen/04-24.md",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel01.md",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Vorlesung Operationsverstärker.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Nachholerkurs bei Salewski.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Salewski 04-23.md",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Übungen/04-03.md",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Übungen/04-10.md",
+    "FH_Münster/Semester II/C++/Praktika/CPPAufgabenblatt2.pdf",
+    "FH_Münster/Semester II/C++/Praktika/Klasse Widerstand.md",
+    "FH_Münster/Semester I/Mathematik I/1.2.1 Mengenlehre.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/Nitzsche Lösungen/W463L.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/Nitzsche Lösungen/W453L.md",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/W463.md",
+    "FH_Münster/Semester I/Mathematik I/Untitled",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250411203219.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250411200753.png",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Bilder/Pasted image 20250407191416.png",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Bilder/Pasted image 20250407191112.png",
+    "Untitled.canvas"
+  ]
+}

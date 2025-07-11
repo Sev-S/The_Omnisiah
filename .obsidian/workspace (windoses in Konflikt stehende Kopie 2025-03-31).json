@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "8f57fd088766240c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cf0cae2a6402f61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f31483fee9a62f2b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/Physik/Vorlesung Physik/PDFs/V1_Phys_Groessen_2025.pdf",
+                "page": 9,
+                "left": -17,
+                "top": 130,
+                "zoom": 0.890625
+              },
+              "icon": "lucide-file-text",
+              "title": "V1_Phys_Groessen_2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c79101d597ed2aaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0052c3aca8cda12c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eabc7a00109fe2df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44619a5f978a3b96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ccff51aa93b9292f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3b7bf3259b29e1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3616fda61534e6f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "624bcf81ec9b16c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FH_Münster/Semester II/Physik/Vorlesung Physik/Mathe Werkzeugkasten.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mathe Werkzeugkasten"
+            }
+          },
+          {
+            "id": "1f7ac34e37ccd943",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16df4e09b02205b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c70880d3c31689e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FH_Münster/Semester II/Physik/Vorlesung Physik/Mathe Werkzeugkasten.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mathe Werkzeugkasten"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "f31483fee9a62f2b",
+  "lastOpenFiles": [
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/PDFs/V1_MatheWerkzeugkasten_2025.pdf",
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/Physikalische Größen.md",
+    "FH_Münster/Semester II/Physik/Formelsammlung Blueprint von Malechka.md",
+    "FH_Münster/Semester I/Mathematik I/1.1.3 Beweistechniken.md",
+    "FH_Münster/Semester I/Mathematik I/Bilider",
+    "FH_Münster/Semester I/Mathematik I/Bilider/Pasted image 20250330194049.png",
+    "FH_Münster/Semester I/Mathematik I/1.1.2 Verknüpfung von Aussagen.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum-GdE2.pdf",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Bilder/Pasted image 20250330144356.png",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Bilder",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Bilder/Pasted image 20250329220014.png",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Vorlesungsunterlagen/Vorlesung.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika",
+    "FH_Münster/Semester II/C++/Praktika/Klasse Widerstand.md",
+    "FH_Münster/Semester II/C++/Praktika/Praktikum I.md",
+    "FH_Münster/Semester II/C++/Mitschrift C++.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.2.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/Mathematik II Übungen V1.pdf",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/6.1.1 Vektorräume.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/6.1 Vektoren.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/6. Lineare Algebra.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.1.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250328220634.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250328220255.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250328141632.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250328141318.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250328141104.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250328140856.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250328140551.png",
+    "1) Für alle $v,w,x/in V$ gilt $v+(w+u)=(v+w)+u$.md",
+    "1) Für alle $v,w,x",
+    "1) Für alle $v,w,x ",
+    "1) Für alle $v,w,x /in V$ gilt $v+(w+u)=(v+w)+u$.md",
+    "HBBK/LF11(KNA)/Arduino Alternativen.md",
+    "FH_Münster/Semester II/C++/Praktika",
+    "FH_Münster/Semester II/C++/Praktika",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/W330.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/W310.md",
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/Mathe Werkzeugkasten.md",
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/Untitled.md",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Vorlesung Operationsverstärker.md",
+    "FH_Münster/Semester II/Physik/Übungen aus Folien Physik.md",
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/Drawing 2025-03-27 11.11.06.excalidraw.md",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Übungen/27-03.md"
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "8f57fd088766240c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4ea61126b6a533e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a3d4df1a7ca0845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HBBK/LF11(KNA)/ESP32 mit Arduino IDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ESP32 mit Arduino IDE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c79101d597ed2aaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0052c3aca8cda12c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eabc7a00109fe2df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44619a5f978a3b96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ccff51aa93b9292f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e3b7bf3259b29e1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3616fda61534e6f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "624bcf81ec9b16c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FH_Münster/Semester II/Physik/Vorlesung Physik/Mathe Werkzeugkasten.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mathe Werkzeugkasten"
+            }
+          },
+          {
+            "id": "1f7ac34e37ccd943",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16df4e09b02205b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c70880d3c31689e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Praktika/CPPAufgabenblatt4.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CPPAufgabenblatt4"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "xournalpp:Create new Xournal++ note": false
+    }
+  },
+  "active": "1a3d4df1a7ca0845",
+  "lastOpenFiles": [
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/7.4 Kurvendiskusion.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250518170816.png",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/gde_uea2_mLZ_4Dez2024.pdf",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/N100.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/Nitzsche Lösungen/N100L.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/IndaktM/KW20.md",
+    "FH_Münster/Semester II/C++/Praktika/CPPAufgabenblatt4.pdf",
+    "FH_Münster/Semester II/Elektronik II/Praktika/EL2-Praktikum Stromspiegel Durchfuehrung.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_00_Organisatorisches.pdf",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/S200.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/Nitzsche Lösungen/S200L.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/7.3 Höhere Ableitung und Berechnung von Grenzwerten.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/7.2 Ableitungsregeln.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Drawing 2025-04-11 20.28.29.excalidraw.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/Mathematik II Übungen V1.pdf",
+    "FH_Münster/Semester II/Elektronik II/Praktika/EL2-Praktikum Stromspiegel Vorbereitung.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.4.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.1.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.24.md",
+    "FH_Münster/Semester II/Physik/Übungen/U6/U6_7.md",
+    "FH_Münster/Semester II/Physik/Übungen/U6/U6_Drehbewegung.pdf",
+    "FH_Münster/Semester II/Physik/Übungen/U6/U6_5.md",
+    "FH_Münster/Semester II/Physik/Vorlesung Physik/PDFs/V6_Drehbewegung_2_2025.pdf",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsunterlagen/EL2-Kap02_66-99.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/05-15.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/05-08.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/04-24.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250512185630.png",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.2.md",
+    "FH_Münster/Semester II/Physik/Übungen/U1/U1_1.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/Nitzsche Lösungen/S140L.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/S140.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/Nitzsche Lösungen/S110L.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Übungen GdE II/S100.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/IndaktM/KW19.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250512190237.png",
+    "FH_Münster/Semester II/Physik/Übungen/U6/U6_3.md",
+    "FH_Münster/Semester II/Physik/Übungen/U6/U6_1.md",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250511152137.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250511152129.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250511152124.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250511151557.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250508202223.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424200138.png",
+    "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250424195938.png",
+    "Untitled.canvas"
+  ]
+}
