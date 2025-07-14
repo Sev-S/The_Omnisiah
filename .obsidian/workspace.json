@@ -11,10 +11,14 @@
             "id": "af5afe29124d4e61",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projekte/Atari Punk Console Synthesizer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Atari Punk Console Synthesizer"
             }
           }
         ]
@@ -182,6 +186,9 @@
   },
   "active": "af5afe29124d4e61",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Projekte/Atari Punk Console Synthesizer.md",
+    "Projekte",
     "FH_Münster/Semester II/Physik/Formelsammlung.md",
     "FH_Münster/Semester II/Physik/Übungen/Lösungen/U8/U8_Wellen_solution.pdf",
     "FH_Münster/Semester II/Physik/Übungen/Lösungen/U8/U8_Wellen.pdf",
@@ -193,7 +200,6 @@
     "FH_Münster/Semester II/Physik/Fragestunde.md",
     "FH_Münster/Semester II/Physik/Vorlesung Physik/PDFs/Xournal/V10_thermodynamik_2_2025_kommentiert.pdf",
     "FH_Münster/Semester II/Physik/Vorlesung Physik/PDFs/Xournal/V6_Drehbewegung_1_2025_kommentiert.pdf",
-    "FH_Münster/Semester II/Physik/Übungen/Lösungen/U6/U6_Drehbewegung_solution.pdf",
     "Bilder/Pasted image 20250708100750.png",
     "FH_Münster/Semester II/Physik/Formelsammlung Blueprint von Malechka.md",
     "FH_Münster/Semester II/Physik/Übungen/Lösungen/U6/U6_1.md",
@@ -221,7 +227,6 @@
     "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/7.3 Höhere Ableitung und Berechnung von Grenzwerten.md",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/IndaktM/KW14.md",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.7.md",
-    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.1.md",
     "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250328135925.png",
     "Bilder/scope_10.png",
     "Bilder/scope_9.png",
