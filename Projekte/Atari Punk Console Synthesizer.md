@@ -12,4 +12,8 @@
 - [ ] $0,01\ \mu F$ Kondensator (1)
 - [ ] $10\ \mu F$ Kondensator (1)
 - [ ] $500\ k\Omega$ Potentiometer (2)
-- [ ] 
+- [ ] Schalter (1)
+- [ ] Lautsprecher (1)
+- [ ] $9\ V$ Block Adaper
+- [ ] $9\ V$ Batterie
+- [ ] 3D gedrucktes Gehäuse
