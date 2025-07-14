@@ -36,4 +36,9 @@
 - Wenn der Oszillator eine negative Flanke hat, gibt die monostabile Kippstufe einen Puls aus
 - Durch die Potentiometer verändert man die Frequenz und Bandbreite des Synthesizers
 - Die $4,7\ k\Omega$ Widerstände dienen als Pull-Up-Widerstände damit das Audio-Signal nicht durch Kurzschlüsse aussetzt
-- 
+## Probleme
+- Es gibt keine vernünftigen $500\ k\Omega$ Potentiometer (Spindeltrimmer zählen nicht)
+	- Patrick fragen
+## Testaufbau
+- Mit Spindeltrimmern funktioniert die Schaltung auf Breadboard
+- Ein Versuch den Einstellbaren Bereich zu verkleinern durch feste Widerstände und kleinere Potentiometer war erfolglos, man kann keine vernünftige Frequenz einstellen
