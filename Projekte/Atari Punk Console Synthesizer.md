@@ -10,7 +10,7 @@
 - [ ] $4,7\ k\Omega$ Widerstand (2)
 - [ ] $0,1\ \mu F$ Kondensator (1)
 - [ ] $0,01\ \mu F$ Kondensator (1)
-- [ ] $10\ \mu F$ Kondensator (1)
+- [ ] $10\ \mu F$ ElKo (1)
 - [ ] $500\ k\Omega$ Potentiometer (2)
 - [ ] Schalter (1)
 - [ ] Lautsprecher (1)
@@ -29,4 +29,11 @@
 ### Astabile Kippstufe
 - Oszillator der Rechtecksignal erzeugt
 - Durch die Verbindung zwischen Pin 2 und 6 kann der 555 sich selbst triggern
+- Der Kondensator lädt auf die selbe Weise wie bei der monostabilen Kippstufe
+- Pin 6 zieht Pin 2 wieder low und startet den Kreislauf neu
+### Kombination
+- Pin 3 astabilen Kippstufe wird mit dem Eingangspin 2 der monostabilen Kippstufe verbunden
+- Wenn der Oszillator eine negative Flanke hat, gibt die monostabile Kippstufe einen Puls aus
+- Durch die Potentiometer verändert man die Frequenz und Bandbreite des Synthesizers
+- Die $4,7\ k\Omega$ Widerstände dienen als Pull-Up-Widerstände damit das Audio-Signal nicht durch Kurzschlüsse aussetzt
 - 
