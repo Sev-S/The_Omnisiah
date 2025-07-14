@@ -27,3 +27,4 @@
 - Wenn Pin 6 Low wird, wird der Kondensator über Pin 7 geladen
 - Wenn der Kondensator geladen ist wird Pin 6 High und Pin 7 sperrt wieder
 ### Astabile Kippstufe
+- 
