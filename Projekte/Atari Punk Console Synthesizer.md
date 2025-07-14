@@ -3,7 +3,7 @@
 ## Vorwort
 - Ist auch bekannt als Stepped Tone Generator
 - Die entstehenden Klänge klingen wie alte Atari Konsolen
-- Besteht aus astabilen und monostabilen Multivibrator
+- Besteht aus astabilen und monostabilen Kippstufe
 ## Teileliste
 - [ ] NE555 (2)
 - [ ] $1\ k\Omega$ Widerstand (1)
@@ -17,3 +17,6 @@
 - [ ] $9\ V$ Block Adaper
 - [ ] $9\ V$ Batterie
 - [ ] 3D gedrucktes Gehäuse
+## Funktionsprinzip
+![[Pasted image 20250714100349.png]]
+### Monostabile Kippstufe
