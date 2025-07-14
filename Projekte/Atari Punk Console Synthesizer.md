@@ -27,4 +27,6 @@
 - Wenn Pin 6 Low wird, wird der Kondensator über Pin 7 geladen
 - Wenn der Kondensator geladen ist wird Pin 6 High und Pin 7 sperrt wieder
 ### Astabile Kippstufe
+- Oszillator der Rechtecksignal erzeugt
+- Durch die Verbindung zwischen Pin 2 und 6 kann der 555 sich selbst triggern
 - 
