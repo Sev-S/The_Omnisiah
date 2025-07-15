@@ -42,3 +42,6 @@
 ## Testaufbau
 - Mit Spindeltrimmern funktioniert die Schaltung auf Breadboard
 - Ein Versuch den Einstellbaren Bereich zu verkleinern durch feste Widerstände und kleinere Potentiometer war erfolglos, man kann keine vernünftige Frequenz einstellen
+## Platine und Schaltplan
+
+![[Pasted image 20250715145543.png]]
