@@ -47,3 +47,4 @@
 Schaltplan in KiCAD
 ![[Pasted image 20250715145543.png]]
 Platinenlayout in KiCAD
+## Gehäuse
