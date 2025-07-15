@@ -1,6 +1,6 @@
 {
   "autoExport": true,
-  "xournalppPath": "",
+  "xournalppPath": "/usr/bin/xournalpp",
   "templatePath": "",
   "defaultNewFilePath": ""
 }
