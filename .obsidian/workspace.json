@@ -196,11 +196,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "af5afe29124d4e61",
+  "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
+    "Random/Test.xopp",
     "Projekte/Atari Punk Console Synthesizer.md",
     "Projekte/FFT++.md",
     "Bilder/Pasted image 20250715145841.png",
@@ -245,7 +247,6 @@
     "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/6.1 Vektoren.md",
     "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/8. Integralrechnung.md",
     "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/7.3 Höhere Ableitung und Berechnung von Grenzwerten.md",
-    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/IndaktM/KW14.md",
     "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250328135925.png",
     "Untitled.canvas"
   ]
