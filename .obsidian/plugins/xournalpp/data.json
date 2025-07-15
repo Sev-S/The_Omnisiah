@@ -1,6 +1,6 @@
 {
   "autoExport": true,
-  "xournalppPath": "flatpak-spawn --host flatpak run com.github.xournalpp.xournalpp",
+  "xournalppPath": "xournal++",
   "templatePath": "",
   "defaultNewFilePath": ""
 }
