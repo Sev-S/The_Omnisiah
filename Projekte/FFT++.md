@@ -7,4 +7,3 @@ Mein Versuch die Fourier Analyse, wie bei Nietzsche gelernt, in C++ inklusive ei
 ### Simon
 - Front- und Backend in getrennten Dateien die durch header Dateien verbunden werden
 - Zuerst Backend bauen
-- 
