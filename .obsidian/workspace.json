@@ -35,8 +35,7 @@
               "title": "FFT++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +199,10 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "af5afe29124d4e61",
+  "active": "dcf2028551a353be",
   "lastOpenFiles": [
-    "Random/test.pdf",
     "Projekte/FFT++.md",
+    "Random/test.pdf",
     "Random/test.xopp",
     "Random/1.xopp",
     "Random/Test.xopp",
