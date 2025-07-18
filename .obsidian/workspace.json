@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e3b7bf3259b29e1f",
@@ -201,8 +202,9 @@
   },
   "active": "dcf2028551a353be",
   "lastOpenFiles": [
-    "Projekte/FFT++.md",
+    "FH_Münster/Semester II/Elektronik II/Praktika/praktikum3.pdf",
     "Projekte/Atari Punk Console Synthesizer.md",
+    "Projekte/FFT++.md",
     "Random/test.pdf",
     "Random/test.xopp",
     "Random/1.xopp",
