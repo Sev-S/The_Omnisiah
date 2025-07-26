@@ -1,0 +1,1 @@
+Unter dem Absolutbetrag oder kurz Betrag $|a|$ einer reellen Zahl $a\in \mathbb{R}$ versteht man die reelle Zahl $|a|:=\left\{ \begin{array} \ \text{a falls}\ a\geq 0 \\ \text{-a falls}\ a< 0 \end{array}\right\}$.
