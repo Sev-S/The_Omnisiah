@@ -1,3 +1,3 @@
 Für jedes $n\in \mathbb{N}$ wird das Produkt der Zahlen $1,2,\dots,n$ die Fakultät von $n$ oder n Fakultät genannt und mit $n!$ bezeichnet: $n!:=1\cdot 2\cdot 3\cdot\dots \cdot n=\prod^n_{i=1}i$. Außerdem setzen
 wir $0! =1$.
-Für $n,\ k\in \mathbb{N}$ mit $k\leq n$ wird die Zahl $\frac{n!}{k!(n)}$
+Für $n,\ k\in \mathbb{N}$ mit $k\leq n$ wird die Zahl $\frac{n!}{k!(n-k)!}$ der Binomialkoeffizient oder n über k genannt und mit $\begin{pmatrix}n \\ k\end{pmatrix}$ bezeichnet: $\begin{pmatrix}n \\ k\end{pmatrix}:=\frac{n!}{}$
