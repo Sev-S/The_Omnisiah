@@ -1,1 +1,1 @@
-Es sei $n\in \mathbb{N}$ und $\mathbb{N}^\leq$
+Es sei $n\in \mathbb{N}$ und $\mathbb{N}^{\leq n}$ die Menge $\{k\in \mathbb{N}|1\leq k\leq n\}=\{1,2,3,\dots,n\}$. Ist $A$ eine beliebgi
