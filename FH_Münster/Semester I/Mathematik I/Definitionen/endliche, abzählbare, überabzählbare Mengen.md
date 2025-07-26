@@ -1,1 +1,1 @@
-Es sei $n\in \mathbb{N}$ und $\mathbb{N}^{\leq n}$ die Menge $\{k\in \mathbb{N}|1\leq k\leq n\}=\{1,2,3,\dots,n\}$. Ist $A$ eine beliebgi
+Es sei $n\in \mathbb{N}$ und $\mathbb{N}^{\leq n}$ die Menge $\{k\in \mathbb{N}|1\leq k\leq n\}=\{1,2,3,\dots,n\}$. Ist $A$ eine beliebige Menge und gibt es eine bijektive Abbildung $f:\mathbb{N}^{\leq n}\to A$, so sagt man, die Menge $A$ habe $n$ Elemente oder die Kardi
