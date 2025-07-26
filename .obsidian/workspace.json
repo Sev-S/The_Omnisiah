@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Beschränktheit.md",
+                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Natürliche Zahlen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beschränktheit"
+              "title": "Natürliche Zahlen"
             }
           }
         ],
@@ -216,8 +216,9 @@
   },
   "active": "f1c8fc7fb6515eb8",
   "lastOpenFiles": [
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Absolutbetrag.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Beschränktheit.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Natürliche Zahlen.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Absolutbetrag.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Intervalle.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Hintereinanderausführung.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Relation.md",
@@ -260,7 +261,6 @@
     "FH_Münster/Semester II/Physik/Vorlesung Physik/Energie,Arbeit.md",
     "FH_Münster/Semester II/Physik/Vorlesung Physik/Dynamik.md",
     "FH_Münster/Semester II/Physik/Vorlesung Physik/Mechanik.md",
-    "FH_Münster/Semester II/Physik/Übungen/Lösungen/U1/U1_4.md",
     "FH_Münster/Semester II/Mathematik II/Vorlesung Mathematik II/Bilder/Pasted image 20250328135925.png",
     "Untitled.canvas"
   ]
