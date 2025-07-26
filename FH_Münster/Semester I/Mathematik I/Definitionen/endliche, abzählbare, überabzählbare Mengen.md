@@ -1,0 +1,1 @@
+Es sei $n\in \mathbb{N}$ und $\mathbb{N}^\leq$
