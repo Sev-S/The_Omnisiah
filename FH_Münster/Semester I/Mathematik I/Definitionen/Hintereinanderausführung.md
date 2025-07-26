@@ -1,0 +1,1 @@
+Seien $f:D\to U,\ x\mapsto f(x)$, und $g:V\to Z,\  y\mapsto g(y)$ Abbildungen mit $f(D)\subset V$. Dann ist durch $h:D\to Z,\ x\mapsto g(f(x))$ eine Abbildung definiert. Sie heißt HIntereinanderausführung oder Verknüpfung von $f$ und $g$ und wird mit $g\circ f$ bezeichnet.
