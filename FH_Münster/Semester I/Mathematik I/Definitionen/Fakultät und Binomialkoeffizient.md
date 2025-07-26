@@ -1,1 +1,1 @@
-Für jedes $n\in \mathbb{N}$ wird das Produkt der Zahlen $1,2,\dots,n$ die Fakultät 
+Für jedes $n\in \mathbb{N}$ wird das Produkt der Zahlen $1,2,\dots,n$ die Fakultät von $n$ oder n Fakultät genannt und mit $n!$ bezeichnet: $n!:=1\cdot 2\cdot 3\cdot\dots \cdot n=pr$
