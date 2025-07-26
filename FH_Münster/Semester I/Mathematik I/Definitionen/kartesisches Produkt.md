@@ -1,0 +1,1 @@
+Sind M und N Mengen, so heißt die Menge $M\times N$, definiert durch $M \cdot N:=\{(x,y)|x \in M,y\in N\}$, aller geordneten Paare (x,y) mit $x \in M$ und $y\in N$ das kartesische Produkt von M und N.

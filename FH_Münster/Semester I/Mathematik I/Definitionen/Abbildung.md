@@ -1,0 +1,1 @@
+Gegeben seien zwei Mengen $D$ und $Z$ und eine Zuordnungsvorschrift, die jedem $x \in D$ genau ein $y\in Z$ zuordnet. Dann ist durch $D,\ Z$ und diese Zuordnungsvorschrift eine Abbildung $f$ von $D$ nach Z gegeben. Man schreibt $f:D\to Z\ \text{mit}\ x\mapsto f(x)$ oder $f:x\mapsto f(x)\ \text{mit}\ x \in D,\ f(x)\in Z$ oder $y=f(x)\ \text{mit}\ x \in  D,\ y \in Z$.

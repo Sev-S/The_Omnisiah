@@ -1,0 +1,1 @@
+Unter einer Aussage versteht man ein sinnvolles sprachliches Gebilde, das entweder wahr oder falsch sein kann.

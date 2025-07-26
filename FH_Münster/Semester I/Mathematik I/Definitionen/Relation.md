@@ -1,0 +1,1 @@
+Sind $M$ und $N$ Mengen so heißt eine Teilmenge $R\subset M\times N$ des kartesischen Produktes von $M$ und $N$ heißt eine Relation auf $M\times N$. Ist $M=N$, so heißt $R$ kurz eine Relation auf M. Statt $(x,y)\in R$ schreibt man kurz $xRy$.

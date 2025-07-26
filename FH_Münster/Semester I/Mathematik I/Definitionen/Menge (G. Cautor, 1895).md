@@ -1,0 +1,1 @@
+Eine Menge ist eine beliebige Zusammenfassung von bestimmten wohlunterschiedlichen Objekten unserer Anschauung oder unseren Denkens zu einem Ganzen.

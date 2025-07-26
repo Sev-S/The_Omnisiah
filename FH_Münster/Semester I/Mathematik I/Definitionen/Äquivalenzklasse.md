@@ -1,0 +1,1 @@
+Ist ~ eine Äquivalenzrelation auf der Menge $X$ und $a \in X$, s heißt die Menge $[a]_{\text{~}}:=\{x \in X|x~a\}$ die Äquivalenzklasse von ~ mit dem Repräsentanten $a$.
