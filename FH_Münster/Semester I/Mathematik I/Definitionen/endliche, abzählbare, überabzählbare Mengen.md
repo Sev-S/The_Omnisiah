@@ -1,2 +1,3 @@
 Es sei $n\in \mathbb{N}$ und $\mathbb{N}^{\leq n}$ die Menge $\{k\in \mathbb{N}|1\leq k\leq n\}=\{1,2,3,\dots,n\}$. Ist $A$ eine beliebige Menge und gibt es eine bijektive Abbildung $f:\mathbb{N}^{\leq n}\to A$, so sagt man, die Menge $A$ habe $n$ Elemente oder die Kardinalzahl $n$ und schreibt $\#A=n$. Die Abbildung $f$ "nummeriert" die Elemente von $A$. Jede derartige Menge $A$, und auch die leere Menge, für die man $\#\varnothing=0$ setzt, heißt endliche Menge.
-Eine Menge $A$, die nicht endlich ist, heißt unendlich. Gibt es eine bijektive Abbildung $f:\mathbb{N}\to A$, kann $A$ also in der Form $A=\{a_{1},a_{2},a_{3},\dots,a$
+Eine Menge $A$, die nicht endlich ist, heißt unendlich. Gibt es eine bijektive Abbildung $f:\mathbb{N}\to A$, kann $A$ also in der Form $A=\{a_{1},a_{2},a_{3},\dots\}$ beschrieben werden, so heißt $A$ abzählbar unendlich (oder kurz abzählbar).
+Eine Menge, die weder endlich, noch abzählbar unendlich ist, heißt 
