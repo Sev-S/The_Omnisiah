@@ -1,0 +1,1 @@
+Die Folge $(a_{n})$ sei alternierend, und die Folge $(|a_{n}|)_{n\in \mathbb{N}}$ eine monoton fallende Nullfolge. Dann ist die Reihe $\sum_{n=1}^\infty a_{n}$ konvergent.

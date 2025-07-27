@@ -1,0 +1,1 @@
+Wenn die Reihe $\sum_{n=1}^\infty a_{n}$ konvergent ist, dann ist $(a_{n})_{n\in \mathbb{N}}$ eine Nullfolge, d.h. $\lim_{ n \to \infty }a_{n}=0$.

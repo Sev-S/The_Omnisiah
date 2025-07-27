@@ -1,0 +1,4 @@
+Die Reihen $\sum_{k=1}^\infty a_{k}$ und $\sum_{k=1}^\infty b_{k}$ seien konvergent.
+i) Für $\lambda,\ \mu \in \mathbb{R}$ ist die Reihe $\sum_{k=1}^\infty(\lambda a_{k}+\mu b_{k})$ ebenfalls konvergent un d$\sum_{k=1}^\infty(\lambda a_{k}+\mu b_{k})=\lambda \cdot \sum_{k=1}^\infty a_{k}+\mu \cdot\sum_{k=1}^\infty b_{k}$
+ii) Gilt $a_{k}\leq b_{k}$ für alle $k\in \mathbb{N}$, so ist $\sum_{k=1}^\infty a_{k}\leq \sum_{k=1}^\infty b_{k}$.
+iii) Entsteht die Folge $\tilde{a}_{n}$ aus $(a_{n})$ durch Weglassen, Hinzufügen oder Ändern endlich vieler Folgenglieder, so ist die Reihe $\sum_{k=1}^\infty \tilde{a}_{k}$ ebenfalls konvergent.
