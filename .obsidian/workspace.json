@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Sätze/Monotonieriterium.md",
+                "file": "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Reihen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monotonieriterium"
+              "title": "Rechenregel für konvergente Reihen"
             }
           }
         ],
@@ -216,8 +216,11 @@
   },
   "active": "f1c8fc7fb6515eb8",
   "lastOpenFiles": [
-    "FH_Münster/Semester I/Mathematik I/Sätze/Beschränktheitskriterium.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Reihen.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Monotonieriterium.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Beschränktheitskriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für uneigentliche Grenzwerte.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Sandwich-Theorem.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
@@ -240,9 +243,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Intervalle.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Hintereinanderausführung.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Relation.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Umkehrabbildung.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/reflexiv, symmetrisch,transitiv.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Menge (G. Cautor, 1895).md",
     "FH_Münster/Semester I/Mathematik I/Vorlesung",
     "FH_Münster/Semester I/Mathematik I/Mathe I.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Unbenannt",

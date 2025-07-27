@@ -1,0 +1,1 @@
+Gegeben sei eine Folge $(a_{n})n\in \mathbb{N}$. Die Summe $s_{n}$ der ersten $n$ Glieder von $(a_{n})$, also $s_{n}=a_{1}+a_{2}+\dots+a_{n}=\sum_{k=1}^na_{k}$, heißt n-te Partialsumme von $(a_{n})$. Die Folge $(s_{n})_{n\in \mathbb{N}}$ der Partialsumme heißt die zu $(a_{n})$ gehörige unendliche Reihe.

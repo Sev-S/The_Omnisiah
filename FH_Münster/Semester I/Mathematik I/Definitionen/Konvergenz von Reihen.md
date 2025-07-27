@@ -1,0 +1,1 @@
+Ist die zu einer Folge $(a_{n})_{n\in \mathbb{N}}$ gehörige unendliche Reihe $(s_{n})_{n\in \mathbb{N}}$ mit $s_{n}=\sum_{k=1}^na_{k}(n\in \mathbb{N})$ konvergent, so heißt ihr Grenzwert $s=\lim_{ n \to \infty }s_{n}$ die unendliche Summe von $(a_{n})$ und man schreibt $\lim_{ n \to \infty }\sum_{k=1}^na_{k}=\sum_{k=1}^\infty a_{k}$.
