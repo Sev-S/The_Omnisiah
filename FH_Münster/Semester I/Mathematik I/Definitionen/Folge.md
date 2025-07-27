@@ -1,0 +1,1 @@
+Eine Abbildung $f:N\to \mathbb{R}$ heißt reelle Zahlenfolge oder kurz Folge.

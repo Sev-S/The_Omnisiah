@@ -1,0 +1,1 @@
+Folge $(a_{n})_{n\in \mathbb{N}}$ heißt alternierend, wenn $a_{n+1}\cdot a_{n}<0$ für alle $n\in \mathbb{N}$, d.h. aufeinander folgende Folgeglieder haben unterschiedliche Vorzeichen.

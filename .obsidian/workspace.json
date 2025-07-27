@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Fakultät und Binomialkoeffizient.md",
+                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz einer Folge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fakultät und Binomialkoeffizient"
+              "title": "Konvergenz einer Folge"
             }
           }
         ],
@@ -214,14 +214,22 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "eabc7a00109fe2df",
+  "active": "f1c8fc7fb6515eb8",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Alternierende Folge.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz einer Folge.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Beschränktheit von Funktionen.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Beschränktheit.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Monotonie.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Folge.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Binomischer Lehrsatz.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Geometrische Summenformel.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Vollständige Induktion.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Fakultät und Binomialkoeffizient.md",
     "FH_Münster/Semester I/Mathematik I/Sätze",
     "FH_Münster/Semester I/Mathematik I/Unbenannt.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Fakultät und Binomialkoeffizient.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/endliche, abzählbare, überabzählbare Mengen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Natürliche Zahlen.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Beschränktheit.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Absolutbetrag.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Intervalle.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Hintereinanderausführung.md",
@@ -238,10 +246,8 @@
     "Projekte/Atari Punk Console Synthesizer.md",
     "FH_Münster/Semester I/Mathematik I/Mathe I.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Unbenannt",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Die \"und\"-Verknüpfung (Konjunktion).md",
     "FH_Münster/Semester I/Mathematik I/Definitionen",
     "FH_Münster/Semester II/Elektronik II/Praktika/praktikum3.pdf",
-    "Projekte/FFT++.md",
     "Random/test.pdf",
     "Random/test.xopp",
     "Random/1.xopp",
@@ -250,13 +256,7 @@
     "Bilder/Pasted image 20250715145750.png",
     "Bilder/Pasted image 20250715145543.png",
     "Bilder/Pasted image 20250714100349.png",
-    "Untitled.md",
-    "Projekte",
-    "FH_Münster/Semester II/Physik/Formelsammlung.md",
-    "FH_Münster/Semester II/Physik/Fragestunde.md",
     "Bilder/Pasted image 20250708100750.png",
-    "FH_Münster/Semester II/Physik/Formelsammlung Blueprint von Malechka.md",
-    "FH_Münster/Semester II/Physik/Übungen/Lösungen/U6/U6_1.md",
     "Bilder/Pasted image 20250707164653.png",
     "Bilder/Pasted image 20250707164623.png",
     "Bilder/Pasted image 20250707163719.png",

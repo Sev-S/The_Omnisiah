@@ -1,0 +1,2 @@
+Eine Funktion $f:M\to \mathbb{R}$ mit $M\subset \mathbb{R}$ heißt nach $\left\{\displaylines{oben\\ unten}\right\}$ beschränkt, wenn $f(M)$ nach $\left\{\displaylines{oben\\ unten}\right\}$ beschränkt ist. Dann heißt $\left\{\displaylines{sup\ f(M)\\inf\ f(M)}\right\}$ die $\left\{\displaylines{obere\\ untere}\right\}$ Grenze von $f$.
+Die Funktion heißt beschränkt, wenn sie nach oben und unten beschränkt ist.
