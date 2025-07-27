@@ -1,0 +1,1 @@
+Die Funktion $f$ sei auf $U_{r}(x_{0})$ definiert $(x_{0}\in \mathbb{R},\ r>0)$. $f$ heißt stetig an der Stelle $x_{0}$, wenn der Grenzwert $\lim_{ x \to x_{0} }f(x)$ existiert und wenn gilt: $\lim_{ x \to x_{0} }f(x)=f(x_{0})$.
