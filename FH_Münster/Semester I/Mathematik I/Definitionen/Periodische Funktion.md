@@ -1,0 +1,1 @@
+Eine Funktion $f:\mathbb{R}\to \mathbb{R}$ heißt periodisch, wenn es eine Zahl $p>0$ gibt, sodass für alle $x \in \mathbb{R}$ gilt: $f(x+p)=f(x)$.

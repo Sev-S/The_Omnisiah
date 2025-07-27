@@ -1,0 +1,1 @@
+Die Menge $D\subset \mathbb{R}$ liege symmetrisch zu Null, d.h. es gelte $0\in D$ und für jede $x \in D$ sein auch $-x \in D$. Eine Funktion $f:D\to \mathbb{R}$ heißt $\left\{\displaylines{\text{gerade}\\ \text{ungerade}}\right\}$ wenn für alle $x \in D$ gilt $\left\{\displaylines{f(-x)=f(x)\\ f(-x)=-f(x)}\right\}$.
