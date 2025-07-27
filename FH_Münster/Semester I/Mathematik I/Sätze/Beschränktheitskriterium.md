@@ -1,0 +1,1 @@
+Jede konvergente Folge ist beschränkt.

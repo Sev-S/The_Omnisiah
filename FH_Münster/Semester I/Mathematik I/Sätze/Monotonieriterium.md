@@ -1,0 +1,1 @@
+Ist eine Folge $\left\{\displaylines{\text{wachsend}\\ \text{fallend}}\right\}$ und nach $\left\{\displaylines{\text{oben}\\ \text{unten}}\right\}$ beschränkt, so ist die Folge konvergent.
