@@ -1,0 +1,1 @@
+Die Rechenregeln und das Sandwich-Theorem für konvergente Folgen lassen sich in gewisser Weise auf divergente 
