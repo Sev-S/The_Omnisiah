@@ -1,0 +1,1 @@
+Eine Folge $(a_{n})_{n\in \mathbb{N}}$ heißt konvergent mit Grenzwert $a\in \mathbb{R}$, wenn zu jedem $\epsilon>0$ ein $n\in \mathbb{N}$ existiert, sodass für alle $n\geq n_{0}$ gilt: $|a_{n}-a|<\epsilon$. Kurz: $\forall \epsilon>0\ \exists n_{0}\in \mathbb{N}\ \forall n\geq n_{0}|a_{n}>a|<\epsilon$.

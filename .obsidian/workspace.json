@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz einer Folge.md",
+                "file": "FH_Münster/Semester I/Mathematik I/Sätze/Sandwich-Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Konvergenz einer Folge"
+              "title": "Sandwich-Theorem"
             }
           }
         ],
@@ -216,8 +216,11 @@
   },
   "active": "f1c8fc7fb6515eb8",
   "lastOpenFiles": [
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Alternierende Folge.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Sandwich-Theorem.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Äquivalenzklasse.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz einer Folge.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Alternierende Folge.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Beschränktheit von Funktionen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Beschränktheit.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Monotonie.md",
@@ -240,10 +243,7 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/kartesisches Produkt.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/injektiv, surjektiv, bijektiv.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Aussage.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Äquivalenzklasse.md",
     "FH_Münster/Semester I/Mathematik I/Vorlesung",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Abbildung.md",
-    "Projekte/Atari Punk Console Synthesizer.md",
     "FH_Münster/Semester I/Mathematik I/Mathe I.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Unbenannt",
     "FH_Münster/Semester I/Mathematik I/Definitionen",
