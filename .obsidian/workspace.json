@@ -11,14 +11,16 @@
             "id": "f1c8fc7fb6515eb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
-                "mode": "source",
-                "source": false
+                "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 154,
+                "zoom": 2.0826473770150318
               },
-              "icon": "lucide-file",
-              "title": "Gerade und ungerade Fukntion"
+              "icon": "lucide-file-text",
+              "title": "Mathematik I Übungen V2"
             }
           }
         ]
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e3b7bf3259b29e1f",
@@ -185,8 +188,10 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "eabc7a00109fe2df",
+  "active": "f1c8fc7fb6515eb8",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Abbildung.md",
     "FH_Münster/Semester I/Mathematik I/Übungen",
     "FH_Münster/Semester I/Mathematik I/Definitionen/exponentielle Darstellung.md",
@@ -204,7 +209,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Grenzwerte für Funktionen x -> infty.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/elementare rechnerische Verknüpfungen von Funktionen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Periodische Funktion.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Leibniz-Kriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
@@ -213,7 +217,6 @@
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Reihen.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Monotonieriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze",
     "FH_Münster/Semester I/Mathematik I/Vorlesung",
     "FH_Münster/Semester I/Mathematik I/Mathe I.pdf",
@@ -222,7 +225,6 @@
     "FH_Münster/Semester II/Elektronik II/Praktika/praktikum3.pdf",
     "Random/test.pdf",
     "Random/test.xopp",
-    "Random/1.xopp",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
     "Bilder/Pasted image 20250715145543.png",
