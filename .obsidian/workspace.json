@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Abbildung.md",
+                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abbildung"
+              "title": "Gerade und ungerade Fukntion"
             }
           }
         ]
@@ -185,8 +185,10 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "f1c8fc7fb6515eb8",
+  "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Abbildung.md",
+    "FH_Münster/Semester I/Mathematik I/Übungen",
     "FH_Münster/Semester I/Mathematik I/Definitionen/exponentielle Darstellung.md",
     "Projekte/FFTpp.md",
     "Projekte/Atari Punk Console Synthesizer.md",
@@ -212,7 +214,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Monotonieriterium.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Beschränktheitskriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze",
     "FH_Münster/Semester I/Mathematik I/Vorlesung",
     "FH_Münster/Semester I/Mathematik I/Mathe I.pdf",
@@ -222,7 +223,6 @@
     "Random/test.pdf",
     "Random/test.xopp",
     "Random/1.xopp",
-    "Random/Test.xopp",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
     "Bilder/Pasted image 20250715145543.png",
