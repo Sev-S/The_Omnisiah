@@ -1,0 +1,1 @@
+Die eindeutige Darstellung einer komplexen Zahl $z\in \mathbb{C},\ z\neq 0$, in der Form $z=re^{i\varphi}$ mit $r\in \mathbb{R}^{>0}$, $\varphi \in[0,\ 2\pi[$, heißt exponentielle Darstellung von $z$.

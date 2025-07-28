@@ -1,0 +1,1 @@
+Ist $z=x+iy$ eine komplexe Zahl mit $x,\ y\in \mathbb{R}$ so bezeichnet man $\sqrt{ x^2+y^2 }$ als Betrag von $z$ und schreibt $|z|=\sqrt{ x^2+y^2 }$.

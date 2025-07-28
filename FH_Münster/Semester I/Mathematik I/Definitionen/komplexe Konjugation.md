@@ -1,0 +1,1 @@
+Ist $z=x+iy$ eine komplexe Zahl mit $x,\ y\in \mathbb{R}$, so bezeichnet man $x-iy$ als konjugiert komplexe Zahl zu $z$ und schreibt $\overline{z}=x-iy$. Die Abbildung $\overline{}:C\to \mathbb{C},\ z\mapsto\overline{z}$ heißt komplexe Konjugation.

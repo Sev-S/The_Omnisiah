@@ -1,0 +1,1 @@
+Für alle $\varphi \in[0,\ 2\pi[$ gilt $\cos(\varphi)+i\sin(\varphi)=e^{i\varphi}$.

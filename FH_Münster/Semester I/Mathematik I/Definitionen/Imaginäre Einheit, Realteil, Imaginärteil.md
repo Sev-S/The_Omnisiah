@@ -1,0 +1,3 @@
+1) Für jedes $x \in \mathbb{R}$ und $(x,0)\in \mathbb{C}$ schreibt man kurz $(x,0)=x$.
+2) Die komplexe Zahl $(0,1)$ erhält die Bezeichnung t$(0,1)=i$. mam nennt sie die imaginäre Einheit.
+3) Jede komplexe Zahl $z=(x,y)\in \mathbb{C}$ lässt sich mit 1) und 2) in der Form $z=x+iy$ schreiben, denn $z=(x,y)=(x,0)+(0,y)=x+(0,1)\cdot(y,0)=x+iy$. Die Darstellung $z=x+iy$ heißt kartesische Darstellung der komplexen Zahl $z$. Man nennt $x$ den Realteil und $y$ den Imaginärteil von $z$ und schreibt $x=\mathrm{Re}z,\ y=\mathrm{Im}z$.

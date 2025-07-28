@@ -1,0 +1,1 @@
+Die eindeutige Darstellung einer komplexen Zahl $z\in \mathbb{C},\ z\neq 0$, in der Form $z=r(\cos(\varphi)+i\sin(\varphi))$ mit $r\in \mathbb{R}^{>0}\ \varphi \in[0,\ 2\pi[$, heißt trigonometrische Darstellung oder Darstellung in Polarkoordinaten von $z$. Dabei nennt man $r$ den Betrag und $\varphi$ das Argument von $z$ und man schreibt $r=|z|,\ \varphi=arg\ z$.
