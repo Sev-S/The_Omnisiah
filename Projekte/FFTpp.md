@@ -1,5 +1,5 @@
 ## Github Link
-[FFTpp auf github]()
+[FFTpp auf github](https://github.com/Sev-S/FFTpp/blob/main/README.md)
 
 Mein Versuch die Fourier Analyse, wie bei Nietzsche gelernt, in C++ inklusive eines CLIs zu schreiben.
 ## Anforderungen
