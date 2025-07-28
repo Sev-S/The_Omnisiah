@@ -57,4 +57,6 @@ Platinenlayout in KiCAD
 - Der Lautsprecher wird in die für ihn vorgesehene Halterung gesetzt
 - Die Abdeckung der Schrauben wird mit dünnem doppelseitigem Klebeband befeestigt
 ## Anleitung
-- Das
+- Das linke Potentiometer verändert die Frequenz, also die Tonlage, des von dem Synthezisers ausgegebenen Tons
+- Das rechte Potentiometer verändert die Frequenz des Trigger-Signals für den Ton, also die Häufigkeit in der der Ton ausgegeben wird.
+- Betrieben wird der Syntheziser mit einer regulären 9V-Batterie
