@@ -15,12 +15,26 @@
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
                 "page": 2,
-                "left": -8,
-                "top": 846,
-                "zoom": 2.0826473770150318
+                "left": -9,
+                "top": 766,
+                "zoom": 1.7046714465222859
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
+            }
+          },
+          {
+            "id": "2c68b170e52ec373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Aussage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aussage"
             }
           }
         ]
@@ -80,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e3b7bf3259b29e1f",
@@ -188,18 +201,22 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "f1c8fc7fb6515eb8",
+  "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/Physik/Übungen/U1.pdf",
-    "FH_Münster/Semester II/Physik/Übungen/U2.pdf",
-    "FH_Münster/Semester II/Physik/Übungen/U3.pdf",
-    "FH_Münster/Semester II/Physik/Übungen/U5.pdf",
-    "FH_Münster/Semester II/Physik/Übungen/U7.pdf",
-    "FH_Münster/Semester II/Physik/Übungen/U8.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.1.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/WiSe 2324.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/Alt Klausur.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.4wx.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.3c.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/8.3bi).pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/8.11a.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.9.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.8a-b.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.25b.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.6a.pdf",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Aussage.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Abbildung.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen",
     "FH_Münster/Semester I/Mathematik I/Definitionen/exponentielle Darstellung.md",
     "Projekte/FFTpp.md",
     "Projekte/Atari Punk Console Synthesizer.md",
@@ -222,10 +239,6 @@
     "FH_Münster/Semester I/Mathematik I/Sätze/Nullfolge.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Reihen.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze",
-    "FH_Münster/Semester I/Mathematik I/Vorlesung",
-    "FH_Münster/Semester I/Mathematik I/Mathe I.pdf",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
     "Bilder/Pasted image 20250715145543.png",
