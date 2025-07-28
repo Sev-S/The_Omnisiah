@@ -48,3 +48,13 @@ Schaltplan in KiCAD
 ![[Pasted image 20250715145543.png]]
 Platinenlayout in KiCAD
 ## Gehäuse
+### Vor dem Einbau
+- In die dafür vorgesehenen Löcher müssen M3 Muttern mit einem heißen Lötkolben eingesetzt werden
+### Einbau der Platine und externen Teile
+- Zur Befestigung der Platine, der Batterieabdeckung und dem Deckel werden M3 Schrauben verwendet
+- Zur Befestigung des Schalters werden M2 Schrauben und Muttern verwendet
+- Die Potentiometer werden mit den Pins nach unten un die dafür vorgesehenen Löcher gesetzt
+- Der Lautsprecher wird in die für ihn vorgesehene Halterung gesetzt
+- Die Abdeckung der Schrauben wird mit dünnem doppelseitigem Klebeband befeestigt
+## Anleitung
+- Das
