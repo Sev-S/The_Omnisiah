@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
+                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Die Menge C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stetigkeit"
+              "title": "Die Menge C"
             }
           }
         ],
@@ -216,8 +216,10 @@
   },
   "active": "f1c8fc7fb6515eb8",
   "lastOpenFiles": [
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Grenzwert für Funktionen x to x0.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Elementare rechnerische Verknüpfung, Hintereinanderausführung und Umkehrung stetiger Funktionen.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Die Menge C.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Grenzwert für Funktionen x to x0.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Grenzwerte für Funktionen x -> infty.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/elementare rechnerische Verknüpfungen von Funktionen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Periodische Funktion.md",
@@ -240,8 +242,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Alternierende Folge.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Beschränktheit von Funktionen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Beschränktheit.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Monotonie.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Folge.md",
     "FH_Münster/Semester I/Mathematik I/Sätze",
     "FH_Münster/Semester I/Mathematik I/Vorlesung",
     "FH_Münster/Semester I/Mathematik I/Mathe I.pdf",

@@ -1,0 +1,3 @@
+1) Die Funktionen $f_{1}$ und $f_{2}$ seien in $x_{0}\in \mathbb{R}$ stetig. Dann sind auch die Funktionen $f_{1}\pm f_{2},\ f_{1}\cdot f_{2},\ |f_{1}|,\ \frac{f_{1}}{f_{2}}$ wenn $f_{2}\neq 0,\ f_{1}^q$ wenn $f_{1}\geq 0\ (q>0)$ stetig in $x_{0}$.
+2) Die Funktion $f$ sei in $x_{0}\in D_{f}$ stetig, die Funktion $g$ sei in $a_{0}=f(x_{0})\in D_{g}$ stetig und es sei $W_{f}\subset D_{g}$. Dann ist auch $g\circ f$ in $x_{0}$ stetig und es gilt $\lim_{ x \to x_{0} }g(f(x))=g(\lim_{ x \to x_{0} }f(x))=g(f(\lim_{ x \to x_{0} }x))$.
+3) Es sei $J\subset \mathbb{R}$ ein Intervall und die Funktion $f:J\to W_{f}$ sei auf $J$ stetig und umkehrbar. Dann ist $f^{-1}:W_{f}\to J$ stetig auf $W_{f}$ und $W_{f}$ ist ein Intervall.
