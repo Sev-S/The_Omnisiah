@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 5,
+                "page": 6,
                 "left": -9,
-                "top": 286,
+                "top": 770,
                 "zoom": 1.7046714465222859
               },
               "icon": "lucide-file-text",
@@ -187,15 +187,17 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "eabc7a00109fe2df",
+  "active": "f1c8fc7fb6515eb8",
   "lastOpenFiles": [
     "FH_Münster/Semester I/Mathematik I/Übungen/1.11 Mengendiagramme.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.11 Mengendiagramme.xopp",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.10 Beschreibende Schreibweise von Mengen.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.11 Mengendiagramme_annotated.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.11 Mengendiagramme.xopp~",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.11 Mengendiagramme.xopp",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.9 Aufzählende Schreibweise für Mengen.pdf",
     "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2.1 Mengenlehre.md",
     "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2 Mengen, Relationen, Abbildungen.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Menge (G. Cautor, 1895).md",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.7 Tautologien a-c,l,n.pdf",
@@ -203,8 +205,6 @@
     "FH_Münster/Semester I/Mathematik I/Übungen/1.1 Aussagen.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/elementare rechnerische Verknüpfungen von Funktionen.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.6 Logische Kehrseite.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.4 Notwendige und hinreichende Bedingung.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.3 Negation.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Aussage.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Abbildung.md",
