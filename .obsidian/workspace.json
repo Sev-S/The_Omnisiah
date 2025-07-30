@@ -24,15 +24,15 @@
             }
           },
           {
-            "id": "03f28446bd36fa3a",
+            "id": "6e298a270b715e14",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md"
+                "file": "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel01.md"
               },
               "icon": "excalidraw-icon",
-              "title": "05-08"
+              "title": "Kapitel01"
             }
           }
         ],
@@ -200,8 +200,11 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "03f28446bd36fa3a",
+  "active": "f539fbb6c6cb9dbf",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap02.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-06.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-03-2.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-22.pdf",
@@ -209,10 +212,8 @@
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/03-27.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
     "FH_Münster/Semester II/C++/cpp Übungsstunde.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap03_Teil1.pdf",
