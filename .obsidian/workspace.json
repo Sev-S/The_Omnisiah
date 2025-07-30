@@ -15,9 +15,7 @@
               "state": {
                 "file": "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
                 "page": 1,
-                "left": -9,
-                "top": 796,
-                "zoom": 1.6580882352941178
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "EL2-Uebung"
@@ -187,8 +185,10 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "eabc7a00109fe2df",
+  "active": "f1c8fc7fb6515eb8",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/cpp Übungsstunde.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-22.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
@@ -201,7 +201,6 @@
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap02_66-99.xopp",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap04.pdf",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap04.xopp~",
-    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap02.xopp~",
     "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2.1 Mengenlehre.md",
     "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2 Mengen, Relationen, Abbildungen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Reihen.md",
@@ -224,7 +223,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Grenzwert für Funktionen x to x0.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Grenzwerte für Funktionen x -> infty.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Periodische Funktion.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Leibniz-Kriterium.md",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
     "Bilder/Pasted image 20250715145543.png",
