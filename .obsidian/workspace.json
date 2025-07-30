@@ -16,11 +16,23 @@
                 "file": "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
                 "page": 1,
                 "left": -9,
-                "top": 641,
+                "top": 457,
                 "zoom": 1.6580882352941178
               },
               "icon": "lucide-file-text",
               "title": "EL2-Uebung"
+            }
+          },
+          {
+            "id": "dbb820573607683d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "04-10"
             }
           },
           {
@@ -65,7 +77,8 @@
               "title": "Formelzettel"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,11 +242,12 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "f1c8fc7fb6515eb8",
+  "active": "dbb820573607683d",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/1 Ausgangskennlinienfeld.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
     "FH_Münster/Semester I/Elektronik I/Vorlesung/04 Elektronik - Feldeffekttransistoren_RP.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/03-27.md",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel01.md",
@@ -246,7 +260,6 @@
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-03-2.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-22.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-24.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
     "FH_Münster/Semester II/C++/cpp Übungsstunde.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
