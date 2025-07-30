@@ -29,10 +29,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md"
+                "file": "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md"
               },
               "icon": "excalidraw-icon",
-              "title": "04-10"
+              "title": "04-03"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "Formelzettel"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,13 +241,19 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "dbb820573607683d",
+  "active": "f1c8fc7fb6515eb8",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/Elektronik II/Übungen/2 Inverter mit p-Kanal-Transistor.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-24.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-22.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/1 Ausgangskennlinienfeld.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/2 Inverter mit p-Kanal-Transistor.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-03-2.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-06.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
     "FH_Münster/Semester I/Elektronik I/Vorlesung/04 Elektronik - Feldeffekttransistoren_RP.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/03-27.md",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel01.md",
@@ -256,14 +261,7 @@
     "Pasted image 20250730092243.png",
     "FH_Münster/Semester I/Elektronik I/Vorlesung/05 Elektronik - Tunnelbauelemente_RP.pdf",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap02.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-06.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-03-2.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-22.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-24.md",
     "FH_Münster/Semester II/C++/cpp Übungsstunde.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2.1 Mengenlehre.md",
     "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2 Mengen, Relationen, Abbildungen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Reihen.md",
