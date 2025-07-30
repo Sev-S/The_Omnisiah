@@ -15,13 +15,28 @@
               "state": {
                 "file": "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
                 "page": 1,
-                "zoom": 1
+                "left": -9,
+                "top": 796,
+                "zoom": 1.6580882352941178
               },
               "icon": "lucide-file-text",
               "title": "EL2-Uebung"
             }
+          },
+          {
+            "id": "03f28446bd36fa3a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "05-08"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,22 +200,24 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "f1c8fc7fb6515eb8",
+  "active": "03f28446bd36fa3a",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/C++/cpp Übungsstunde.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-22.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-03-2.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-06.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-03-2.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-22.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-24.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/03-27.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
+    "FH_Münster/Semester II/C++/cpp Übungsstunde.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap03_Teil1.pdf",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap02_66-99.xopp",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap04.pdf",
-    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap04.xopp~",
     "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2.1 Mengenlehre.md",
     "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2 Mengen, Relationen, Abbildungen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Reihen.md",
@@ -220,9 +237,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Die Menge C.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Elementare rechnerische Verknüpfung, Hintereinanderausführung und Umkehrung stetiger Funktionen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Grenzwert für Funktionen x to x0.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Grenzwerte für Funktionen x -> infty.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Periodische Funktion.md",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
     "Bilder/Pasted image 20250715145543.png",
