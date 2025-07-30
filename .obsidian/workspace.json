@@ -4,77 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8229337f85002f86",
+        "id": "68d618d3a29fd0af",
         "type": "tabs",
         "children": [
           {
-            "id": "f1c8fc7fb6515eb8",
+            "id": "c7413e503bbaf872",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 457,
-                "zoom": 1.6580882352941178
+                "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+                "page": 7,
+                "left": -8,
+                "top": 813,
+                "zoom": 2.0826473770150318
               },
               "icon": "lucide-file-text",
-              "title": "EL2-Uebung"
-            }
-          },
-          {
-            "id": "dbb820573607683d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "04-03"
-            }
-          },
-          {
-            "id": "6e298a270b715e14",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel01.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Kapitel01"
-            }
-          },
-          {
-            "id": "75a7e9cd48814bfd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester I/Elektronik I/Vorlesung/04 Elektronik - Feldeffekttransistoren_RP.pdf",
-                "page": 19,
-                "left": -11,
-                "top": 256,
-                "zoom": 1.409375
-              },
-              "icon": "lucide-file-text",
-              "title": "04 Elektronik - Feldeffekttransistoren_RP"
-            }
-          },
-          {
-            "id": "0db4dc36bec4dc3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FH_Münster/Semester II/Elektronik II/Formelzettel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Formelzettel"
+              "title": "Mathematik I Übungen V2"
             }
           }
         ]
@@ -134,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e3b7bf3259b29e1f",
@@ -241,27 +188,28 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "f1c8fc7fb6515eb8",
+  "active": "c7413e503bbaf872",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-24.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.12 Potenzmenge einer Menge.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-22.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-03-2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-06.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-24.md",
+    "FH_Münster/Semester II/Elektronik II/Formelzettel.md",
+    "FH_Münster/Semester I/Elektronik I/Vorlesung/04 Elektronik - Feldeffekttransistoren_RP.pdf",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel01.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/1 Ausgangskennlinienfeld.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/2 Inverter mit p-Kanal-Transistor.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-03-2.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-06.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
-    "FH_Münster/Semester I/Elektronik I/Vorlesung/04 Elektronik - Feldeffekttransistoren_RP.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/03-27.md",
-    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel01.md",
-    "FH_Münster/Semester II/Elektronik II/Formelzettel.md",
     "Pasted image 20250730092243.png",
     "FH_Münster/Semester I/Elektronik I/Vorlesung/05 Elektronik - Tunnelbauelemente_RP.pdf",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap02.pdf",
-    "FH_Münster/Semester II/C++/cpp Übungsstunde.pdf",
     "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2.1 Mengenlehre.md",
     "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2 Mengen, Relationen, Abbildungen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Reihen.md",
