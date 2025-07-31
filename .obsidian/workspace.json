@@ -14,8 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 7,
+                "left": -8,
+                "top": 598,
+                "zoom": 2.082647377015032
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
@@ -188,6 +190,7 @@
   },
   "active": "c7413e503bbaf872",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.14 Rechenregeln für Mengenoperationen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.12 Potenzmenge einer Menge.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-22.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
@@ -207,7 +210,6 @@
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/03-27.md",
     "Pasted image 20250730092243.png",
     "FH_Münster/Semester I/Elektronik I/Vorlesung/05 Elektronik - Tunnelbauelemente_RP.pdf",
-    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap02.pdf",
     "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2.1 Mengenlehre.md",
     "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2 Mengen, Relationen, Abbildungen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Reihen.md",
