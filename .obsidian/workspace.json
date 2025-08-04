@@ -14,8 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 10,
+                "left": -9,
+                "top": 810,
+                "zoom": 1.7046714465222859
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e3b7bf3259b29e1f",
@@ -188,6 +189,7 @@
   },
   "active": "c7413e503bbaf872",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.23 Äquivalenzklassen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.21 i,vi) Relation.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.2 Logische Verknüpfung.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
@@ -200,7 +202,6 @@
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-03-2.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-06.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-24.md",
     "FH_Münster/Semester II/Elektronik II/Formelzettel.md",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel01.md",
