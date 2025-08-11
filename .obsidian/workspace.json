@@ -14,8 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 11,
+                "left": -9,
+                "top": 618,
+                "zoom": 1.7046714465222859
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
@@ -201,6 +203,8 @@
   },
   "active": "c7413e503bbaf872",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
+    "FH_Münster/Semester I/Mathematik I/Indakt^M",
     "FH_Münster/Semester I/Mathematik I/Definitionen/injektiv, surjektiv, bijektiv.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.26 Bild und Urbild.pdf",
@@ -213,7 +217,6 @@
     "FH_Münster/Semester I/Mathematik I/Übungen/1.2 Logische Verknüpfung.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.18 Quantoren.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.15 Mengenausdrücke.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.14 Rechenregeln für Mengenoperationen.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-24.md",
