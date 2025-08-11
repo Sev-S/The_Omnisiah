@@ -16,7 +16,7 @@
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
                 "page": 11,
                 "left": -9,
-                "top": 593,
+                "top": 597,
                 "zoom": 1.7046714465222859
               },
               "icon": "lucide-file-text",
@@ -31,9 +31,9 @@
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
                 "page": 3,
-                "left": 151,
-                "top": 633,
-                "zoom": 2.32
+                "left": -13,
+                "top": 641,
+                "zoom": 1.2056244653550046
               },
               "icon": "lucide-file-text",
               "title": "IndaktM_Jan"
@@ -53,8 +53,7 @@
               "title": "injektiv, surjektiv, bijektiv"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,11 +217,11 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "6c17d504df17d885",
+  "active": "c7413e503bbaf872",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.27 a,b,e-f.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/injektiv, surjektiv, bijektiv.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.27 a,b.pdf",
     "FH_Münster/Semester I/Mathematik I/Indakt^M",
