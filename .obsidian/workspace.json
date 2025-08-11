@@ -14,13 +14,29 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 34,
+                "page": 11,
                 "left": -9,
-                "top": 610,
+                "top": 593,
                 "zoom": 1.7046714465222859
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
+            }
+          },
+          {
+            "id": "6c17d504df17d885",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
+                "page": 3,
+                "left": 151,
+                "top": 633,
+                "zoom": 2.32
+              },
+              "icon": "lucide-file-text",
+              "title": "IndaktM_Jan"
             }
           },
           {
@@ -37,7 +53,8 @@
               "title": "injektiv, surjektiv, bijektiv"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,12 +218,13 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "c7413e503bbaf872",
+  "active": "6c17d504df17d885",
   "lastOpenFiles": [
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.27 a,b.pdf",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/injektiv, surjektiv, bijektiv.md",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.27 a,b,e-f.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/injektiv, surjektiv, bijektiv.md",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.27 a,b.pdf",
     "FH_Münster/Semester I/Mathematik I/Indakt^M",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.26 Bild und Urbild.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.19 Unendliche Vereinigung und Durchschnitt.pdf",
@@ -216,7 +234,6 @@
     "FH_Münster/Semester I/Mathematik I/Übungen/1.23 Äquivalenzklassen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.21 i,vi) Relation.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.2 Logische Verknüpfung.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.18 Quantoren.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-24.md",
