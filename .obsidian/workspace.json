@@ -16,11 +16,27 @@
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
                 "page": 12,
                 "left": -9,
-                "top": 362,
+                "top": 366,
                 "zoom": 1.7046714465222859
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
+            }
+          },
+          {
+            "id": "13edfd03ec1329bc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 846,
+                "zoom": 2.0826473770150318
+              },
+              "icon": "lucide-file-text",
+              "title": "Alklausur_Datenkrake"
             }
           },
           {
@@ -37,7 +53,8 @@
               "title": "Umkehrabbildung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e3b7bf3259b29e1f",
@@ -201,12 +219,14 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "c7413e503bbaf872",
+  "active": "13edfd03ec1329bc",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
+    "FH_Münster/Semester II/C++/Alklausur",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.30 a,b.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.29 a-d Bijektivität und Umkehrfunktion.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.7 Tautologien a-c,l,n.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Umkehrabbildung.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.27 Surjektivität und Injektivität a,b,e-h.pdf",
     "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
@@ -214,8 +234,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/injektiv, surjektiv, bijektiv.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.27 a,b.pdf",
     "FH_Münster/Semester I/Mathematik I/Indakt^M",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.26 Bild und Urbild.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.19 Unendliche Vereinigung und Durchschnitt.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Abbildung.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/kartesisches Produkt.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
