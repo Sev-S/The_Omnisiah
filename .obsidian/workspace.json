@@ -14,8 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 12,
+                "left": -9,
+                "top": 547,
+                "zoom": 1.7046714465222859
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
@@ -185,9 +187,9 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "c7413e503bbaf872",
+  "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.27 a,b,e-h.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.27 Surjektivität und Injektivität a,b,e-h.pdf",
     "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.27 a,b,e-f.pdf",
