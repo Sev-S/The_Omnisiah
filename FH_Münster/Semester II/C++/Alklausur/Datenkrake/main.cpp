@@ -14,7 +14,10 @@ class Vektor {
         out.x = this->y + other.y;
         return out;
     }
-    void print() { cout << x << " " << y << endl; } private: double x {0.0}; double y {0.0};
+    void print() { cout << x << " " << y << endl; }
+private:
+    double x {0.0};
+    double y {0.0};
 };
 int main() {
     Vektor result = Vektor(1.3, 2.0) + Vektor(1.4, 1.0) * Vektor(1.0, 1.0);
