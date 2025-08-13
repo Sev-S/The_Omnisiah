@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
-                "page": 1,
+                "page": 3,
                 "left": -10,
-                "top": 845,
+                "top": 508,
                 "zoom": 1.5131636417392944
               },
               "icon": "lucide-file-text",
@@ -187,8 +187,9 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "c7413e503bbaf872",
+  "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Bearbeitung_Datenkrake.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.12 Potenzmenge einer Menge.pdf",
@@ -199,7 +200,6 @@
     "FH_Münster/Semester I/Mathematik I/Übungen/1.11 Mengendiagramme.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.9 Aufzählende Schreibweise für Mengen.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
     "FH_Münster/Semester II/C++/Mitschrift C++.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Umkehrabbildung.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/injektiv, surjektiv, bijektiv.md",
