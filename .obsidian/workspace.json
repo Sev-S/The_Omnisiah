@@ -16,14 +16,31 @@
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
                 "page": 14,
                 "left": -10,
-                "top": 637,
+                "top": 641,
                 "zoom": 1.5131636417392944
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
             }
+          },
+          {
+            "id": "b4d4dd66203ce2c0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
+                "page": 3,
+                "left": -14,
+                "top": 657,
+                "zoom": 1.0701810664385518
+              },
+              "icon": "lucide-file-text",
+              "title": "IndaktM_Jan"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +204,10 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "c7413e503bbaf872",
+  "active": "b4d4dd66203ce2c0",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Vollständige Induktion.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Sandwich-Theorem.md",
@@ -214,8 +233,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Monotonie.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Menge (G. Cautor, 1895).md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz einer Folge.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.14 Rechenregeln für Mengenoperationen.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
