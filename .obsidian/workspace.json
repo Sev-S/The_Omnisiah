@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 12,
-                "left": -4,
-                "top": 370,
-                "zoom": 1.7046714465222859
+                "file": "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 845,
+                "zoom": 1.5131636417392944
               },
               "icon": "lucide-file-text",
-              "title": "Mathematik I Übungen V2"
+              "title": "Alklausur_Datenkrake"
             }
           }
         ]
@@ -189,6 +189,9 @@
   },
   "active": "c7413e503bbaf872",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Alklausur/Bearbeitung_Datenkrake.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.12 Potenzmenge einer Menge.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.xopp",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
@@ -198,9 +201,6 @@
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
     "FH_Münster/Semester II/C++/Mitschrift C++.md",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_01_Einfuehrung.pdf",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_00_Organisatorisches.pdf",
-    "FH_Münster/Semester II/C++/Alklausur/Bearbeitung_Datenkrake.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Umkehrabbildung.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/injektiv, surjektiv, bijektiv.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Abbildung.md",
