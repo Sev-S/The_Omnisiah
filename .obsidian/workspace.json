@@ -13,17 +13,32 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
-                "page": 3,
+                "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+                "page": 14,
                 "left": -10,
-                "top": 508,
+                "top": 637,
                 "zoom": 1.5131636417392944
               },
               "icon": "lucide-file-text",
-              "title": "Alklausur_Datenkrake"
+              "title": "Mathematik I Übungen V2"
+            }
+          },
+          {
+            "id": "7e734bc8e68c467e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wurzelkriterium"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,45 +202,45 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "eabc7a00109fe2df",
+  "active": "7e734bc8e68c467e",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Sätze/Vollständige Induktion.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Sandwich-Theorem.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für uneigentliche Grenzwerte.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Reihen.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Nullfolge.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Monotonieriterium.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Majoranten- und Minorantenkriterium für Reihen.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Leibniz-Kriterium.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Euler'sche Formel.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Binomischer Lehrsatz.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Beschränktheitskriterium.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Umkehrabbildung.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Trigonometrische Darstellung.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Relation.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Reihen.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/reflexiv, symmetrisch,transitiv.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Periodische Funktion.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Natürliche Zahlen.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Monotonie.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Menge (G. Cautor, 1895).md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz einer Folge.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/komplexe Konjugation.md",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.14 Rechenregeln für Mengenoperationen.pdf",
+    "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Bearbeitung_Datenkrake.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.12 Potenzmenge einer Menge.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.xopp",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
-    "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.10 Beschreibende Schreibweise von Mengen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.11 Mengendiagramme.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.9 Aufzählende Schreibweise für Mengen.pdf",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
-    "FH_Münster/Semester II/C++/Mitschrift C++.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Umkehrabbildung.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/injektiv, surjektiv, bijektiv.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Abbildung.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/kartesisches Produkt.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-24.md",
-    "FH_Münster/Semester II/Elektronik II/Formelzettel.md",
-    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel01.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/03-27.md",
     "Projekte/Pasted image 20250730092243.png",
-    "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2.1 Mengenlehre.md",
-    "FH_Münster/Semester I/Mathematik I/Vorlesung/1.2 Mengen, Relationen, Abbildungen.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Reihen.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Menge (G. Cautor, 1895).md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/elementare rechnerische Verknüpfungen von Funktionen.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Aussage.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/exponentielle Darstellung.md",
-    "Projekte/FFTpp.md",
-    "Projekte/Atari Punk Console Synthesizer.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Euler'sche Formel.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Trigonometrische Darstellung.md",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
     "Bilder/Pasted image 20250715145543.png",
