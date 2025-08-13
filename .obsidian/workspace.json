@@ -30,10 +30,8 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
-                "page": 2,
-                "left": 80,
-                "top": 456,
-                "zoom": 1.8
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Alklausur_Datenkrake"
@@ -111,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e3b7bf3259b29e1f",
