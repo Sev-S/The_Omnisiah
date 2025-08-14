@@ -14,10 +14,8 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 14,
-                "left": -10,
-                "top": 629,
-                "zoom": 1.5131636417392944
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
@@ -30,10 +28,10 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
-                "page": 4,
-                "left": -14,
-                "top": 310,
-                "zoom": 1.0701810664385518
+                "page": 3,
+                "left": -12,
+                "top": 606,
+                "zoom": 1.3375035642999715
               },
               "icon": "lucide-file-text",
               "title": "IndaktM_Jan"
@@ -96,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e3b7bf3259b29e1f",
@@ -205,10 +204,11 @@
   },
   "active": "c7413e503bbaf872",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Übungen/2.5 a-c.pdf",
+    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/2.2 Intervalle.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Monotonie.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Vollständige Induktion.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Sandwich-Theorem.md",
@@ -240,7 +240,6 @@
     "FH_Münster/Semester I/Mathematik I/Übungen/1.12 Potenzmenge einer Menge.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.xopp",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.10 Beschreibende Schreibweise von Mengen.pdf",
     "Projekte/Pasted image 20250730092243.png",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
