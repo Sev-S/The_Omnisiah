@@ -16,8 +16,8 @@
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
                 "page": 15,
                 "left": -10,
-                "top": 542,
-                "zoom": 1.5131636417392942
+                "top": 451,
+                "zoom": 1.5131636417392944
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
@@ -203,12 +203,14 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "c7413e503bbaf872",
+  "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Übungen/2.9 Fehlerhafte vollständige Induktion.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.14 Rechenregeln für Mengenoperationen.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/2.8 Bernoulische Ungleichung.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/2.7 Vollständige Induktion arithmetisch.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.11 Mengendiagramme.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Vollständige Induktion.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/2.5 a-c.pdf",
@@ -237,10 +239,8 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Natürliche Zahlen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Menge (G. Cautor, 1895).md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.14 Rechenregeln für Mengenoperationen.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
-    "FH_Münster/Semester II/C++/Alklausur/Bearbeitung_Datenkrake.pdf",
     "Projekte/Pasted image 20250730092243.png",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
