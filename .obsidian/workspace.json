@@ -14,8 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 20,
+                "left": -9,
+                "top": 826,
+                "zoom": 1.7046714465222859
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
@@ -50,8 +52,89 @@
               "icon": "lucide-file",
               "title": "Konvergenz von Reihen"
             }
+          },
+          {
+            "id": "df36cac472b2f666",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 180,
+                "zoom": 1.7046714465222859
+              },
+              "icon": "lucide-file-text",
+              "title": "Alklausur_Datenkrake"
+            }
+          },
+          {
+            "id": "8858b30a57f8c786",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 845,
+                "zoom": 1.7046714465222859
+              },
+              "icon": "lucide-file-text",
+              "title": "CPPUebungsblatt1"
+            }
+          },
+          {
+            "id": "80becb7fa6301c3a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt2.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 845,
+                "zoom": 1.7046714465222859
+              },
+              "icon": "lucide-file-text",
+              "title": "CPPUebungsblatt2"
+            }
+          },
+          {
+            "id": "293db29f57ffe4f7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt3.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 845,
+                "zoom": 1.7046714465222859
+              },
+              "icon": "lucide-file-text",
+              "title": "CPPUebungsblatt3"
+            }
+          },
+          {
+            "id": "98c975a96e1f4838",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt4.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 846,
+                "zoom": 2.0826473770150318
+              },
+              "icon": "lucide-file-text",
+              "title": "CPPUebungsblatt4"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -217,10 +300,17 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "c7413e503bbaf872",
+  "active": "98c975a96e1f4838",
   "lastOpenFiles": [
-    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
+    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt3.pdf",
+    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt2.pdf",
+    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1.pdf",
+    "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
+    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt4.pdf",
+    "FH_Münster/Semester II/C++/Übungen",
+    "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
@@ -228,16 +318,10 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz einer Folge.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.5 Grenzwert von Folgen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/2.4 a-c.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/3.1 a,b.pdf",
     "tilhub.com.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Alternierende Folge.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Monotonie.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Beschränktheit.md",
-    "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
-    "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/2.9 Fehlerhafte vollständige Induktion.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.14 Rechenregeln für Mengenoperationen.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/2.8 Bernoulische Ungleichung.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Vollständige Induktion.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für uneigentliche Grenzwerte.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Reihen.md",
