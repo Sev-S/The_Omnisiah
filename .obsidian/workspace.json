@@ -14,8 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 14,
+                "left": -10,
+                "top": 438,
+                "zoom": 1.5131636417392944
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
@@ -28,10 +30,10 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
-                "page": 4,
-                "left": 12,
-                "top": 656,
-                "zoom": 1.91
+                "page": 5,
+                "left": -14,
+                "top": 1121,
+                "zoom": 1.0701810664385516
               },
               "icon": "lucide-file-text",
               "title": "IndaktM_Jan"
@@ -203,6 +205,7 @@
   },
   "active": "c7413e503bbaf872",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Übungen/3.1 a,b.pdf",
     "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "tilhub.com.md",
