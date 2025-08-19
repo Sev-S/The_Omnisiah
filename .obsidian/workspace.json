@@ -54,6 +54,22 @@
             }
           },
           {
+            "id": "622ff6b895ea9724",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1_Bearbeitung.pdf",
+                "page": 3,
+                "left": -9,
+                "top": 585,
+                "zoom": 1.7046726206260197
+              },
+              "icon": "lucide-file-text",
+              "title": "CPPUebungsblatt1_Bearbeitung"
+            }
+          },
+          {
             "id": "80becb7fa6301c3a",
             "type": "leaf",
             "state": {
@@ -62,11 +78,27 @@
                 "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt2.pdf",
                 "page": 1,
                 "left": -9,
-                "top": 845,
+                "top": 802,
                 "zoom": 1.7046714465222859
               },
               "icon": "lucide-file-text",
               "title": "CPPUebungsblatt2"
+            }
+          },
+          {
+            "id": "2e6544eb06478eeb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 845,
+                "zoom": 1.7046714465222859
+              },
+              "icon": "lucide-file-text",
+              "title": "CPPUebungsblatt1"
             }
           },
           {
@@ -102,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -267,14 +299,15 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "80becb7fa6301c3a",
+  "active": "2e6544eb06478eeb",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1_Bearbeitung.pdf",
+    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1.pdf",
+    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1_Bearbeitung.xopp~",
+    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt2.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
-    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1.pdf",
-    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1_Bearbeitung.pdf",
-    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1_Bearbeitung.xopp~",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_01_Einfuehrung.pdf",
     "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1_Bearbeitung.xopp",
