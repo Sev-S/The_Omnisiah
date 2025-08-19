@@ -16,7 +16,7 @@
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
                 "page": 14,
                 "left": -10,
-                "top": 438,
+                "top": 417,
                 "zoom": 1.5131636417392944
               },
               "icon": "lucide-file-text",
@@ -30,10 +30,10 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
-                "page": 5,
-                "left": -14,
-                "top": 1121,
-                "zoom": 1.0701810664385516
+                "page": 4,
+                "left": 9,
+                "top": 709,
+                "zoom": 1.82
               },
               "icon": "lucide-file-text",
               "title": "IndaktM_Jan"
@@ -205,9 +205,10 @@
   },
   "active": "c7413e503bbaf872",
   "lastOpenFiles": [
-    "FH_Münster/Semester I/Mathematik I/Übungen/3.1 a,b.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/2.4 a-c.pdf",
     "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/3.1 a,b.pdf",
     "tilhub.com.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Alternierende Folge.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Monotonie.md",
@@ -220,7 +221,6 @@
     "FH_Münster/Semester I/Mathematik I/Übungen/2.7 Vollständige Induktion arithmetisch.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.11 Mengendiagramme.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Vollständige Induktion.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/2.5 a-c.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Sandwich-Theorem.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für uneigentliche Grenzwerte.md",
