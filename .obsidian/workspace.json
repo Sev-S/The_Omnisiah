@@ -52,89 +52,9 @@
               "icon": "lucide-file",
               "title": "Konvergenz von Reihen"
             }
-          },
-          {
-            "id": "622ff6b895ea9724",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1_Bearbeitung.pdf",
-                "page": 3,
-                "left": -9,
-                "top": 585,
-                "zoom": 1.7046726206260197
-              },
-              "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt1_Bearbeitung"
-            }
-          },
-          {
-            "id": "80becb7fa6301c3a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt2.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 802,
-                "zoom": 1.7046714465222859
-              },
-              "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt2"
-            }
-          },
-          {
-            "id": "2e6544eb06478eeb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1.pdf",
-                "page": 2,
-                "left": -9,
-                "top": 706,
-                "zoom": 1.7046714465222859
-              },
-              "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt1"
-            }
-          },
-          {
-            "id": "293db29f57ffe4f7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt3.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 845,
-                "zoom": 1.7046714465222859
-              },
-              "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt3"
-            }
-          },
-          {
-            "id": "98c975a96e1f4838",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt4.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 846,
-                "zoom": 2.0826473770150318
-              },
-              "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt4"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -299,19 +219,19 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "2e6544eb06478eeb",
+  "active": "a4a401afc593b4ec",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/C++/Übungen/Übung1/cmake-build-debug/Testing/Temporary/LastTest.log",
-    "FH_Münster/Semester II/C++/Übungen/Übung1/cmake-build-debug/Testing/Temporary",
-    "FH_Münster/Semester II/C++/Übungen/Übung1/cmake-build-debug/Testing",
-    "FH_Münster/Semester II/C++/Übungen/Übung1/cmake-build-debug/build.ninja",
-    "FH_Münster/Semester II/C++/Übungen/Übung1/cmake-build-debug/CMakeFiles/rules.ninja",
-    "FH_Münster/Semester II/C++/Übungen/Übung1/cmake-build-debug/CMakeFiles/TargetDirectories.txt",
-    "FH_Münster/Semester II/C++/Übungen/Übung1/cmake-build-debug/cmake_install.cmake",
-    "FH_Münster/Semester II/C++/Übungen/Übung1/cmake-build-debug/CMakeFiles/Uebung1.dir",
-    "FH_Münster/Semester II/C++/Übungen/Übung1/main.cpp~",
-    "FH_Münster/Semester II/C++/Übungen/Übung1/CMakeLists.txt~",
     "FH_Münster/Semester II/C++/Übungen/Übung1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt",
+    "FH_Münster/Semester II/C++/Übungen/Übung1/cmake-build-debug/CMakeFiles",
+    "FH_Münster/Semester II/C++/Übungen/Übung1/cmake-build-debug",
+    "FH_Münster/Semester II/C++/Übungen/Übung1",
+    "FH_Münster/Semester II/C++/Übungen",
+    "FH_Münster/Semester II/C++/Uebungen/Uebung1/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdCXX/tmp",
+    "FH_Münster/Semester II/C++/Uebungen/Uebung1/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdCXX/a.out",
+    "FH_Münster/Semester II/C++/Uebungen/Uebung1/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+    "FH_Münster/Semester II/C++/Uebungen/Uebung1/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdC/tmp",
+    "FH_Münster/Semester II/C++/Uebungen/Uebung1/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdC/a.out",
+    "FH_Münster/Semester II/C++/Uebungen/Uebung1/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdC/CMakeCCompilerId.c",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
