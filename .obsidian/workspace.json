@@ -78,7 +78,7 @@
                 "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1.pdf",
                 "page": 1,
                 "left": -9,
-                "top": 845,
+                "top": 702,
                 "zoom": 1.7046714465222859
               },
               "icon": "lucide-file-text",
@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e3b7bf3259b29e1f",
@@ -300,13 +299,15 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "98c975a96e1f4838",
+  "active": "8858b30a57f8c786",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1_Bearbeitung.pdf",
+    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1_Bearbeitung.xopp",
+    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt4.pdf",
     "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt3.pdf",
     "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt2.pdf",
     "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
-    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt4.pdf",
     "FH_Münster/Semester II/C++/Übungen",
     "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
@@ -316,8 +317,6 @@
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Sandwich-Theorem.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz einer Folge.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/3.5 Grenzwert von Folgen.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/2.4 a-c.pdf",
     "tilhub.com.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Alternierende Folge.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Monotonie.md",
