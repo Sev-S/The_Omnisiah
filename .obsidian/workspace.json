@@ -14,10 +14,8 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 17,
-                "left": -10,
-                "top": 817,
-                "zoom": 1.5131636417392944
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
@@ -30,15 +28,16 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 4,
+                "left": 12,
+                "top": 656,
+                "zoom": 1.91
               },
               "icon": "lucide-file-text",
               "title": "IndaktM_Jan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,12 +201,12 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "b4d4dd66203ce2c0",
+  "active": "c7413e503bbaf872",
   "lastOpenFiles": [
-    "tilhub.com.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Alternierende Folge.md",
     "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "tilhub.com.md",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Alternierende Folge.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Monotonie.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Beschränktheit.md",
     "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
@@ -239,7 +238,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/reflexiv, symmetrisch,transitiv.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Periodische Funktion.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Natürliche Zahlen.md",
     "Projekte/Pasted image 20250730092243.png",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
