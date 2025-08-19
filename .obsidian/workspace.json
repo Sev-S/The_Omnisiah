@@ -54,38 +54,6 @@
             }
           },
           {
-            "id": "df36cac472b2f666",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 180,
-                "zoom": 1.7046714465222859
-              },
-              "icon": "lucide-file-text",
-              "title": "Alklausur_Datenkrake"
-            }
-          },
-          {
-            "id": "8858b30a57f8c786",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 702,
-                "zoom": 1.7046714465222859
-              },
-              "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt1"
-            }
-          },
-          {
             "id": "80becb7fa6301c3a",
             "type": "leaf",
             "state": {
@@ -134,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -299,20 +267,19 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "8858b30a57f8c786",
+  "active": "80becb7fa6301c3a",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
+    "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
+    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1.pdf",
     "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1_Bearbeitung.pdf",
+    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1_Bearbeitung.xopp~",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_01_Einfuehrung.pdf",
     "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1_Bearbeitung.xopp",
     "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt4.pdf",
     "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt3.pdf",
-    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt2.pdf",
-    "FH_Münster/Semester II/C++/Übungen/CPPUebungsblatt1.pdf",
-    "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
-    "FH_Münster/Semester II/C++/Übungen",
-    "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Sandwich-Theorem.md",
