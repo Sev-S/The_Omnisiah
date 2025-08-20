@@ -15,8 +15,8 @@
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
                 "page": 20,
-                "left": -9,
-                "top": 826,
+                "left": -46,
+                "top": 830,
                 "zoom": 1.7046714465222859
               },
               "icon": "lucide-file-text",
@@ -53,8 +53,7 @@
               "title": "Konvergenz von Reihen"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,8 +218,11 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "eabc7a00109fe2df",
+  "active": "c7413e503bbaf872",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.xopp~",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
     "FH_Münster/Semester II/C++/Uebungen/Uebung1/CMakeLists.txt~",
     "FH_Münster/Semester II/C++/Uebungen/Uebung1/cmake-build-debug/Testing/Temporary/LastTest.log.tmpf2f91",
     "FH_Münster/Semester II/C++/Uebungen/Uebung1/cmake-build-debug/Testing/Temporary/LastTest.log.tmp3b1d2",
@@ -230,9 +232,6 @@
     "FH_Münster/Semester II/C++/Uebungen/Uebung1/cmake-build-debug/cmake_install.cmake.tmp22062",
     "FH_Münster/Semester II/C++/Uebungen/Uebung1/cmake-build-debug/build.ninja.tmpd149a",
     "FH_Münster/Semester II/C++/Uebungen/Uebung1/cmake-build-debug/CMakeCache.txt",
-    "FH_Münster/Semester II/C++/Übungen/Übung1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt",
-    "FH_Münster/Semester II/C++/Übungen/Übung1/cmake-build-debug/CMakeFiles",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Sandwich-Theorem.md",
