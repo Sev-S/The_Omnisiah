@@ -15,7 +15,9 @@
               "state": {
                 "file": "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.pdf",
                 "page": 1,
-                "zoom": 1
+                "left": -8,
+                "top": 846,
+                "zoom": 1.9149365047369482
               },
               "icon": "lucide-file-text",
               "title": "uebung_OP"
@@ -186,11 +188,12 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "1470d86caeb19d90",
+  "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.xopp",
+    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP_unbearbeitet.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.xopp",
     "FH_Münster/Semester II/Elektronik II/Übungen/2 Inverter mit p-Kanal-Transistor.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
@@ -202,7 +205,6 @@
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.xopp~",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
     "FH_Münster/Semester II/C++/Uebungen/Uebung1/CMakeLists.txt~",
-    "FH_Münster/Semester II/C++/Uebungen/Uebung1/cmake-build-debug/Testing/Temporary/LastTest.log.tmpf2f91",
     "FH_Münster/Semester I/Mathematik I/Sätze/Sandwich-Theorem.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz einer Folge.md",
     "tilhub.com.md",
