@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP_bearbeitung.pdf",
+                "file": "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.pdf",
                 "page": 1,
                 "left": -8,
-                "top": 360,
+                "top": 289,
                 "zoom": 1.9149365047369482
               },
               "icon": "lucide-file-text",
-              "title": "uebung_OP_bearbeitung"
+              "title": "uebung_OP"
             }
           }
         ]
@@ -190,11 +190,12 @@
   },
   "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.xopp~",
+    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP_og.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP_bearbeitung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.xopp~",
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/2 Inverter mit p-Kanal-Transistor.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP_bearbeitung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.xopp",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
@@ -203,7 +204,6 @@
     "FH_Münster/Semester I/Mathematik I/Sätze/Geometrische Summenformel.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.10.pdf",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.xopp~",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Sandwich-Theorem.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz einer Folge.md",
