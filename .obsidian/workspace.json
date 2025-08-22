@@ -16,7 +16,7 @@
                 "file": "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
                 "page": 2,
                 "left": -71,
-                "top": 766,
+                "top": 498,
                 "zoom": 1.5526960784313726
               },
               "icon": "lucide-file-text",
@@ -200,8 +200,10 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "1470d86caeb19d90",
+  "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/Elektronik II/Übungen/4 CMOS-Inverter.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/4 CMOS-Inverter.xopp",
     "FH_Münster/Semester II/Elektronik II/Übungen/3 MOS-Inverter.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/3 MOS-Inverter.xopp",
@@ -216,10 +218,8 @@
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap02.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/3 Mos-Inverter.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/2 Inverter mit p-Kanal-Transistor.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.pdf",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Nachholerkurs bei Salewski.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Salewski 04-23.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP_og.pdf",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Vorlesung Operationsverstärker.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
