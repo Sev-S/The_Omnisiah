@@ -15,8 +15,8 @@
               "state": {
                 "file": "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
                 "page": 1,
-                "left": -10,
-                "top": 79,
+                "left": -87,
+                "top": 83,
                 "zoom": 1.5526960784313726
               },
               "icon": "lucide-file-text",
@@ -27,14 +27,14 @@
             "id": "9e86443678daa6e2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "FH_Münster/Semester II/Elektronik II/Übungen/3 Mos-Inverter.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "uebung_OP"
+              "icon": "lucide-file",
+              "title": "3 Mos-Inverter"
             }
           }
         ],
@@ -206,6 +206,7 @@
   "active": "9e86443678daa6e2",
   "lastOpenFiles": [
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/3 Mos-Inverter.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/2 Inverter mit p-Kanal-Transistor.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.pdf",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Nachholerkurs bei Salewski.md",
@@ -239,7 +240,6 @@
     "FH_Münster/Semester I/Mathematik I/Sätze/Euler'sche Formel.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Binomischer Lehrsatz.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Beschränktheitskriterium.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Umkehrabbildung.md",
     "Projekte/Pasted image 20250730092243.png",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
