@@ -14,13 +14,25 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
-                "page": 1,
-                "left": -87,
-                "top": 83,
+                "page": 2,
+                "left": -71,
+                "top": 766,
                 "zoom": 1.5526960784313726
               },
               "icon": "lucide-file-text",
               "title": "EL2-Uebung"
+            }
+          },
+          {
+            "id": "82b45e90d0a59374",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "04-10"
             }
           }
         ]
@@ -80,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.50260543823242
+    "width": 304.5
   },
   "right": {
     "id": "e3b7bf3259b29e1f",
@@ -190,6 +202,17 @@
   },
   "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/Elektronik II/Übungen/3 MOS-Inverter.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/3 MOS-Inverter.xopp",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel02.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/03-27.md",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap04.pdf",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap03_Teil1.pdf",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap02_100-122.pdf",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap02_66-99.pdf",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap02.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/3 Mos-Inverter.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/2 Inverter mit p-Kanal-Transistor.pdf",
@@ -198,15 +221,9 @@
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Salewski 04-23.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP_og.pdf",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Vorlesung Operationsverstärker.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP_bearbeitung.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.xopp~",
-    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.xopp",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Geometrische Summenformel.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/3.10.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Sandwich-Theorem.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz einer Folge.md",
@@ -221,10 +238,6 @@
     "FH_Münster/Semester I/Mathematik I/Sätze/Nullfolge.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Monotonieriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Majoranten- und Minorantenkriterium für Reihen.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Leibniz-Kriterium.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Euler'sche Formel.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Binomischer Lehrsatz.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Beschränktheitskriterium.md",
     "Projekte/Pasted image 20250730092243.png",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
