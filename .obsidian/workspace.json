@@ -16,7 +16,7 @@
                 "file": "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
                 "page": 2,
                 "left": -71,
-                "top": 498,
+                "top": 398,
                 "zoom": 1.5526960784313726
               },
               "icon": "lucide-file-text",
@@ -35,7 +35,8 @@
               "title": "04-10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,12 +201,12 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "eabc7a00109fe2df",
+  "active": "82b45e90d0a59374",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/4 CMOS-Inverter.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/4 CMOS-Inverter.xopp",
     "FH_Münster/Semester II/Elektronik II/Übungen/3 MOS-Inverter.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/3 MOS-Inverter.xopp",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel02.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
