@@ -14,13 +14,25 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 21,
-                "left": -8,
-                "top": 808,
-                "zoom": 1.9150780478299148
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
+            }
+          },
+          {
+            "id": "474aaac5b646f150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rechenregel für konvergente Folgen"
             }
           },
           {
@@ -44,10 +56,10 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
-                "page": 9,
-                "left": -11,
-                "top": 1061,
-                "zoom": 1.3544339891645283
+                "page": 7,
+                "left": -14,
+                "top": 861,
+                "zoom": 1.0692899914456802
               },
               "icon": "lucide-file-text",
               "title": "IndaktM_Jan"
@@ -246,26 +258,29 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "eabc7a00109fe2df",
+  "active": "c2a6906293dbe4cd",
   "lastOpenFiles": [
-    "FH_Münster/Semester I/Mathematik I/Übungen/3.14a-f Konvergenz von Reihen.pdf",
-    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/3.9 a-l.pdf",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.25 Graph einer Abbildung.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.23 Äquivalenzklassen.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.1.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.1.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7_8.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.8.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.6.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.5j-o.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.1.md",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.4wx.pdf",
+    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.5.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Majoranten- und Minorantenkriterium für Reihen.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/4 CMOS-Inverter.xopp~",
-    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/4 CMOS-Inverter.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/4 CMOS-Inverter.xopp",
-    "FH_Münster/Semester II/Elektronik II/Übungen/3 MOS-Inverter.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/3 MOS-Inverter.xopp",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel02.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/03-27.md",
-    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap04.pdf",
-    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/EL2-Kap03_Teil1.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/3 Mos-Inverter.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Nachholerkurs bei Salewski.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Salewski 04-23.md",
@@ -281,9 +296,6 @@
     "FH_Münster/Semester I/Mathematik I/Sätze/Vollständige Induktion.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für uneigentliche Grenzwerte.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Reihen.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Nullfolge.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Monotonieriterium.md",
     "Projekte/Pasted image 20250730092243.png",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
