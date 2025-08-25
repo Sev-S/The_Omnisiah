@@ -14,11 +14,29 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 19,
+                "left": -8,
+                "top": 532,
+                "zoom": 1.9150780478299148
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
+            }
+          },
+          {
+            "id": "10ec6399f0a48396",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 677,
+                "zoom": 1.9150780478299145
+              },
+              "icon": "lucide-file-text",
+              "title": "CPPUebungsblatt2"
             }
           },
           {
@@ -93,7 +111,8 @@
               "title": "Majoranten- und Minorantenkriterium für Reihen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,22 +277,22 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "c2a6906293dbe4cd",
+  "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.xopp",
+    "FH_Münster/Semester II/C++/Uebungen/Uebung2_bearbeitet.pdf",
+    "FH_Münster/Semester II/C++/Uebungen/Uebung2_bearbeitet.xopp",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1.pdf",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.9 a-l.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.25 Graph einer Abbildung.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.23 Äquivalenzklassen.pdf",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.1.md",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.1.pdf",
-    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7_8.pdf",
-    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.8.pdf",
-    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.6.pdf",
-    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.5j-o.pdf",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.1.md",
-    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.4wx.pdf",
-    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.5.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Majoranten- und Minorantenkriterium für Reihen.md",
