@@ -56,22 +56,6 @@
             }
           },
           {
-            "id": "228fe0ec118686c5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
-                "page": 3,
-                "left": -8,
-                "top": 537,
-                "zoom": 1.9150780478299145
-              },
-              "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt1_Bearbeitung"
-            }
-          },
-          {
             "id": "cde89bb9e6d47585",
             "type": "leaf",
             "state": {
@@ -84,9 +68,47 @@
               "icon": "lucide-file",
               "title": "C++ Lernzettel"
             }
+          },
+          {
+            "id": "7ec7ac67d519e528",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 846,
+                "zoom": 1.9150780478299145
+              },
+              "icon": "lucide-file-text",
+              "title": "CPPUebungsblatt2_Bearbeitung"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "01abbc873c310135",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "228fe0ec118686c5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 723,
+                "zoom": 0.95
+              },
+              "icon": "lucide-file-text",
+              "title": "CPPUebungsblatt1_Bearbeitung"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,8 +277,8 @@
   "lastOpenFiles": [
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1.pdf",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.27 Surjektivität und Injektivität a,b,e-h.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.9.pdf",
