@@ -16,69 +16,11 @@
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
                 "page": 19,
                 "left": -8,
-                "top": 532,
-                "zoom": 1.9150780478299148
-              },
-              "icon": "lucide-file-text",
-              "title": "Mathematik I Übungen V2"
-            }
-          },
-          {
-            "id": "10ec6399f0a48396",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 375,
+                "top": 442,
                 "zoom": 1.9150780478299145
               },
               "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt2"
-            }
-          },
-          {
-            "id": "7d52d2733dd7f30f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "CPP_04_Objektorientierung2"
-            }
-          },
-          {
-            "id": "474aaac5b646f150",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rechenregel für konvergente Folgen"
-            }
-          },
-          {
-            "id": "30c828e21c171b70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wurzelkriterium"
+              "title": "Mathematik I Übungen V2"
             }
           },
           {
@@ -89,44 +31,15 @@
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
                 "page": 7,
-                "left": -14,
-                "top": 861,
-                "zoom": 1.0692899914456802
+                "left": -4,
+                "top": 1116,
+                "zoom": 1.65
               },
               "icon": "lucide-file-text",
               "title": "IndaktM_Jan"
             }
-          },
-          {
-            "id": "23fd113f7a67ae6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quotientenkriterium"
-            }
-          },
-          {
-            "id": "ad4b139b2f8c6f40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Sätze/Majoranten- und Minorantenkriterium für Reihen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Majoranten- und Minorantenkriterium für Reihen"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,19 +204,22 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "7d52d2733dd7f30f",
+  "active": "c2a6906293dbe4cd",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Übungen/3.9.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.23 Äquivalenzklassen.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.26 Bild und Urbild.pdf",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Grenzwerte für Funktionen x -> infty.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Binomischer Lehrsatz.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Euler'sche Formel.md",
+    "FH_Münster/Semester I/Mathematik I/Übungen/3.10.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.xopp~",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2.pdf",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_01_Einfuehrung.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.xopp",
-    "FH_Münster/Semester II/C++/Uebungen/Uebung2_bearbeitet.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/Uebung2_bearbeitet.xopp",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.1.md",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.1.md",
@@ -326,9 +242,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Alternierende Folge.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Monotonie.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Beschränktheit.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Vollständige Induktion.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für uneigentliche Grenzwerte.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Reihen.md",
     "Projekte/Pasted image 20250730092243.png",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
