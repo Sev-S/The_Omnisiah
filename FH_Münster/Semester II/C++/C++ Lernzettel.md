@@ -15,6 +15,19 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 - Ein Name darf nicht mit einer Zahl beginnen
 ## Explizite und Implizite Typumwandlung
 - Explizite Typumwandlung ruft direkt zu einer Typumwandlung auf
-	``` int i = static_cast <int> (4.3); ```
+	```int i = static_cast <int> (4.3); ```
 - Implizite Typumwandlung ruft nur indirekt zu einer Typumwandlung auf
-	``` int i = 4.3; ```
+	```int i = 4.3; ```
+## Call-by-Value
+- Es wird direkt eine Variable an eine Funktion übergeben
+- Variable kann bearbeitet werden
+	```foo (i) {};```
+## Call-by-Reference
+- Es wird ein Pointer bzw. eine reference auf eine Variable übergeben
+- Variable kann nicht bearbeitet werden und wird nur zum Rechnen benutzt
+	```foo (&i) {};```
+	```foo (*i) {};```
+## Globale Variablen
+- Kann von jeder Funktion verändert werden
+- Führt schnell zu Rechenfehlern
+- Nicht optimal im Bezug auf Speicherverwaltung

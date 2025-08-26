@@ -68,22 +68,6 @@
               "icon": "lucide-file",
               "title": "C++ Lernzettel"
             }
-          },
-          {
-            "id": "7ec7ac67d519e528",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 846,
-                "zoom": 1.9150780478299145
-              },
-              "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt2_Bearbeitung"
-            }
           }
         ],
         "currentTab": 3
@@ -93,19 +77,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "228fe0ec118686c5",
+            "id": "7ec7ac67d519e528",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
+                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
                 "page": 1,
-                "left": -8,
-                "top": 723,
-                "zoom": 0.95
+                "left": -16,
+                "top": 845,
+                "zoom": 0.9247811099389192
               },
               "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt1_Bearbeitung"
+              "title": "CPPUebungsblatt2_Bearbeitung"
             }
           }
         ]
