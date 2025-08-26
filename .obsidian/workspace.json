@@ -32,11 +32,25 @@
                 "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2.pdf",
                 "page": 1,
                 "left": -8,
-                "top": 677,
+                "top": 375,
                 "zoom": 1.9150780478299145
               },
               "icon": "lucide-file-text",
               "title": "CPPUebungsblatt2"
+            }
+          },
+          {
+            "id": "7d52d2733dd7f30f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "CPP_04_Objektorientierung2"
             }
           },
           {
@@ -112,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -277,21 +291,21 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "eabc7a00109fe2df",
+  "active": "7d52d2733dd7f30f",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.xopp~",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_01_Einfuehrung.pdf",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.xopp",
     "FH_Münster/Semester II/C++/Uebungen/Uebung2_bearbeitet.pdf",
     "FH_Münster/Semester II/C++/Uebungen/Uebung2_bearbeitet.xopp",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/3.9 a-l.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.25 Graph einer Abbildung.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.23 Äquivalenzklassen.pdf",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.1.md",
-    "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.1.pdf",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.1.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
