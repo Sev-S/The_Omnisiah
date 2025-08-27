@@ -31,3 +31,7 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 - Kann von jeder Funktion verändert werden
 - Führt schnell zu Rechenfehlern
 - Nicht optimal im Bezug auf Speicherverwaltung
+## Modell
+- Konkret oder abstrakt
+- nicht originalgetreu
+- hebt manche Eigenschaften hervor

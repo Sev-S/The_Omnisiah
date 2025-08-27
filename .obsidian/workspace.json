@@ -77,16 +77,32 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f1c82f19838baea9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
+                "page": 4,
+                "left": -23,
+                "top": 526,
+                "zoom": 0.6538004750593825
+              },
+              "icon": "lucide-file-text",
+              "title": "CPP_04_Objektorientierung2"
+            }
+          },
+          {
             "id": "7ec7ac67d519e528",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
-                "page": 1,
+                "page": 2,
                 "left": -16,
-                "top": 845,
-                "zoom": 0.9247811099389192
+                "top": 623,
+                "zoom": 0.9247811099389193
               },
               "icon": "lucide-file-text",
               "title": "CPPUebungsblatt2_Bearbeitung"
@@ -259,20 +275,21 @@
   },
   "active": "cde89bb9e6d47585",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_00_Organisatorisches.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_01_Einfuehrung.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.27 Surjektivität und Injektivität a,b,e-h.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.9.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.23 Äquivalenzklassen.pdf",
-    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.26 Bild und Urbild.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Grenzwerte für Funktionen x -> infty.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Binomischer Lehrsatz.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Euler'sche Formel.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/3.10.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.1.md",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.1.md",
