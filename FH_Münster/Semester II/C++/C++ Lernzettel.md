@@ -36,3 +36,9 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 - nicht originalgetreu
 - hebt manche Eigenschaften hervor
 ## UML Diagrammtypen
+### Strukturdiagramm
+- Statisch
+- Klassendiagramm, Objektdiagramm
+### Verhaltensdiagramm
+- Dynamisch
+- Anwendungsfalldiagramm, Aktivitätsdiagramm, Zustandsdiagramm
