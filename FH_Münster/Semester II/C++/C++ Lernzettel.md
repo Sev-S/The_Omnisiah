@@ -42,3 +42,14 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 ### Verhaltensdiagramm
 - Dynamisch
 - Anwendungsfalldiagramm, Aktivitätsdiagramm, Zustandsdiagramm
+## Objektbeziehungen
+### Assoziation
+- einfache Beziehung zwischen 2 Objekten
+- Hat einen Lesepfeil
+- Rolle der Klassen wird neben sie geschrieben
+- Gerichtete Assoziationen besitzen einen Pfeil der auf den Teilnehmern, der den anderen Teilnehmer nicht kennt
+### Multiplizität
+- An beide Seiten einer Assoziation kann man die Anzahl der möglichen Teilnehmer der Beziehung schreiben
+- * heißt unendlich viele
+- Intervalle gehen auch
+### Aggregation
