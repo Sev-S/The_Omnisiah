@@ -35,3 +35,4 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 - Konkret oder abstrakt
 - nicht originalgetreu
 - hebt manche Eigenschaften hervor
+## UML Diagrammtypen
