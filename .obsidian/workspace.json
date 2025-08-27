@@ -71,44 +71,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "01abbc873c310135",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f1c82f19838baea9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
-                "page": 13,
-                "left": -23,
-                "top": 597,
-                "zoom": 0.6538004750593825
-              },
-              "icon": "lucide-file-text",
-              "title": "CPP_04_Objektorientierung2"
-            }
-          },
-          {
-            "id": "7ec7ac67d519e528",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
-                "page": 2,
-                "left": -16,
-                "top": 237,
-                "zoom": 0.9247817468880256
-              },
-              "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt2_Bearbeitung"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -275,10 +237,12 @@
   },
   "active": "cde89bb9e6d47585",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
+    "Pasted image 20250827114855.png",
+    "Pasted image 20250827114720.png",
     "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_00_Organisatorisches.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_01_Einfuehrung.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
@@ -318,8 +282,6 @@
     "Bilder/Pasted image 20250708100750.png",
     "Bilder/Pasted image 20250707164653.png",
     "Bilder/Pasted image 20250707164623.png",
-    "Bilder/Pasted image 20250707163719.png",
-    "Bilder/Pasted image 20250707121505.png",
     "Untitled.canvas"
   ]
 }

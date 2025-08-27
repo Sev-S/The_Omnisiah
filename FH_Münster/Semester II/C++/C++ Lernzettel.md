@@ -53,3 +53,13 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 - * heißt unendlich viele
 - Intervalle gehen auch
 ### Aggregation
+- Objekt kann Teil von mehreren zusammengesetzten Objekten sein
+![[Pasted image 20250827114720.png]]
+- Raute zeigt auf das zusammengesetzte Objekt
+### Komposition
+- Objekt kann Teil von genau einem zusammengesetztem Objekt sein
+![[Pasted image 20250827114855.png]]
+- Raute zeigt auf das zusammengesetzte Objekt
+### Reflexive Assoziation
+- Objekte der selben Klasse stehen in Beziehung miteinander
+- Kann nicht gerichtet sein, aber Multiplizitäten erhalten
