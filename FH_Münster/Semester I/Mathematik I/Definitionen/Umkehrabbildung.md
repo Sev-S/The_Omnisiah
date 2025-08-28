@@ -1,1 +1,1 @@
-Ist $f:D\to Z,\ x\mapsto f(x)$ eine bijektive Abbildung, so wird durch $g:Z\to D,\ x\mapsto x$ mit $y=f(x)$ eine Abbildung definiert. $g$ heißt Umkehrabbildung oder inverse Abbildung zu $f$ und man sagt, $f$ sei umkehrbar. Die Abbildung wird mit $f^{-1}$ bezeichnet.
+Ist $f:D\to Z,\ x\mapsto f(x)$ eine bijektive Abbildung, so wird durch $g:Z\to D,\ y\mapsto x$ mit $y=f(x)$ eine Abbildung definiert. $g$ heißt Umkehrabbildung oder inverse Abbildung zu $f$ und man sagt, $f$ sei umkehrbar. Die Abbildung wird mit $f^{-1}$ bezeichnet.
