@@ -14,29 +14,25 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 19,
-                "left": -8,
-                "top": 442,
-                "zoom": 1.9150780478299145
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
             }
           },
           {
-            "id": "a5f1383173712b3e",
+            "id": "5b7228051c3be623",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Übungen/1.27 Surjektivität und Injektivität a,b,e-h.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 625,
-                "zoom": 1.97
+                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1.27 Surjektivität und Injektivität a,b,e-h"
+              "icon": "lucide-file",
+              "title": "Gerade und ungerade Fukntion"
             }
           },
           {
@@ -47,30 +43,15 @@
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
                 "page": 7,
-                "left": -23,
-                "top": 1194,
-                "zoom": 0.6540490447676077
+                "left": -11,
+                "top": 1198,
+                "zoom": 1.3544339891645283
               },
               "icon": "lucide-file-text",
               "title": "IndaktM_Jan"
             }
-          },
-          {
-            "id": "cde89bb9e6d47585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/C++ Lernzettel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C++ Lernzettel"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,29 +216,31 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "cde89bb9e6d47585",
+  "active": "c2a6906293dbe4cd",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Absolutbetrag.md",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
+    "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
+    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/3.14a-f Konvergenz von Reihen.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/1.27 Surjektivität und Injektivität a,b,e-h.pdf",
+    "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
-    "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "Pasted image 20250827114855.png",
     "Pasted image 20250827114720.png",
-    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_00_Organisatorisches.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_01_Einfuehrung.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.27 Surjektivität und Injektivität a,b,e-h.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Grenzwerte für Funktionen x -> infty.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Binomischer Lehrsatz.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Euler'sche Formel.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.1.md",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.1.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Majoranten- und Minorantenkriterium für Reihen.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel02.md",
@@ -273,7 +256,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz einer Folge.md",
     "tilhub.com.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Alternierende Folge.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Monotonie.md",
     "Projekte/Pasted image 20250730092243.png",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
