@@ -13,7 +13,7 @@ public:
             return false;
         }
     }
-    
+
 private:
     double x{};
     double y{};
@@ -30,4 +30,3 @@ if(vec1 == vec2) {
 else {
     std::println ("Die Vektoren sind ungleich");
 }
-// Ausgabe: "Die Vektoren sind ungleich"
