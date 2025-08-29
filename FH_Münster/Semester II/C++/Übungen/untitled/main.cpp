@@ -14,7 +14,9 @@ class Ort {
 
 class Person {
     private:
-        std::set wohnort;
+        std::set<Ort*> wohnort;
     public:
-        void add_wohnort(Wohnort* wohnort)
+        void add_wohnort(Ort* wohnort) {
+            this->wohnort.insert(wohnort);
+        }
 };
