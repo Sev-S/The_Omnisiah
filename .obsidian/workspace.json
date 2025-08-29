@@ -14,10 +14,8 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 39,
-                "left": -8,
-                "top": 778,
-                "zoom": 1.9150780478299148
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
@@ -58,27 +56,13 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
-                "page": 7,
+                "page": 10,
                 "left": -11,
-                "top": 1198,
+                "top": 513,
                 "zoom": 1.3544339891645283
               },
               "icon": "lucide-file-text",
               "title": "IndaktM_Jan"
-            }
-          },
-          {
-            "id": "c6ccee74094b71d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Umkehrabbildung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Umkehrabbildung"
             }
           }
         ]
@@ -248,9 +232,10 @@
   },
   "active": "c2a6906293dbe4cd",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/4.4.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/2.2 Intervalle.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/4.1a,b,d-g.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Periodische Funktion.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Umkehrabbildung.md",
@@ -258,7 +243,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
-    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.14a-f Konvergenz von Reihen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.27 Surjektivität und Injektivität a,b,e-h.pdf",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
