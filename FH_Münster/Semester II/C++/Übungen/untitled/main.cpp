@@ -3,5 +3,8 @@
 class Person;
 
 class Ort {
-private: set 
+private:
+    std::set<Person*> Bewohner;
+    public:
+    void wird_bewohnt_von()
 };
