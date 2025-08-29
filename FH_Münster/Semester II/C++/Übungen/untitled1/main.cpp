@@ -2,11 +2,18 @@
 
 class Vektor3d {
 public:
-    Vektor3d(double _x, double _y, double _z) : x{_x}, y{_y}, z{_z} {
-    }
-
+    Vektor3d(double _x, double _y, double _z) : x{_x}, y{_y}, z{_z} {}
     Vektor3d() = default;
 
+    bool operator==(const Vektor3d &other) const {
+        if ((this->x == other.x) && (this->y == other.y) && (this->z == other.z)) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
+    
 private:
     double x{};
     double y{};
