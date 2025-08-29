@@ -13,10 +13,14 @@ private:
     double z{};
 };
 
+
 Vektor3d vec1{3.1, 1.5, 0.2};
 Vektor3d vec2{1.0, 0.5, 0.2};
-if(vec1 == vec2)
+
+if(vec1 == vec2) {
     std::println ("Die Vektoren sind gleich");
-else
+}
+else {
     std::println ("Die Vektoren sind ungleich");
+}
 // Ausgabe: "Die Vektoren sind ungleich"
