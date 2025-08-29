@@ -24,6 +24,22 @@
             }
           },
           {
+            "id": "f32f983706534875",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
+                "page": 2,
+                "left": -8,
+                "top": 639,
+                "zoom": 1.9150793668525872
+              },
+              "icon": "lucide-file-text",
+              "title": "CPPUebungsblatt2_Bearbeitung"
+            }
+          },
+          {
             "id": "662c0cb12598fa8e",
             "type": "leaf",
             "state": {
@@ -67,7 +83,8 @@
               "title": "IndaktM_Jan"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,28 +249,28 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "c2a6906293dbe4cd",
+  "active": "f32f983706534875",
   "lastOpenFiles": [
-    "FH_Münster/Semester I/Mathematik I/Übungen/4.5.pdf",
-    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/4.4.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/2.2 Intervalle.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/4.1a,b,d-g.pdf",
+    "FH_Münster/Semester II/C++/Übungen/untitled/main.cpp~",
+    "FH_Münster/Semester II/C++/Übungen/untitled/cmake-build-debug/CMakeFiles/Uebung2.dir/CXXDependInfo.json",
+    "FH_Münster/Semester II/C++/Übungen/untitled/cmake-build-debug/CMakeFiles/Uebung2.dir",
+    "FH_Münster/Semester II/C++/Übungen/untitled/CMakeLists.txt~",
+    "FH_Münster/Semester II/C++/Übungen/untitled/cmake-build-debug/CMakeFiles/clion-Debug-log.txt",
+    "FH_Münster/Semester II/C++/Übungen/untitled/cmake-build-debug/Testing/Temporary/LastTest.log",
+    "FH_Münster/Semester II/C++/Übungen/untitled/cmake-build-debug/Testing/Temporary",
+    "FH_Münster/Semester II/C++/Übungen/untitled/cmake-build-debug/Testing",
+    "FH_Münster/Semester II/C++/Übungen/untitled/cmake-build-debug/CMakeFiles/InstallScripts.json",
+    "FH_Münster/Semester II/C++/Übungen/untitled/cmake-build-debug/build.ninja",
+    "FH_Münster/Semester II/C++/Übungen/untitled/cmake-build-debug/CMakeFiles/rules.ninja",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Periodische Funktion.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Umkehrabbildung.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Absolutbetrag.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/3.14a-f Konvergenz von Reihen.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.27 Surjektivität und Injektivität a,b,e-h.pdf",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
     "Bilder/Pasted image 20250827114855.png",
     "Bilder/Pasted image 20250827114720.png",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_00_Organisatorisches.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Grenzwerte für Funktionen x -> infty.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Binomischer Lehrsatz.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Euler'sche Formel.md",
