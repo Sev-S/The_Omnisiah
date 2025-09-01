@@ -21,7 +21,7 @@ bool check_identity(std::string name1, std::string name2) {
 }
 
 int main() {
-    Person realElvis(std::string elvis);
-    Person fakeElvis(std::string elvis);
+    Person realElvis("elvis");
+    Person fakeElvis("elvis");
     check_identity(realElvis.get_name(), fakeElvis.get_name());
 }
