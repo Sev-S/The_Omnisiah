@@ -40,6 +40,22 @@
             }
           },
           {
+            "id": "8d4622e7c063c1f9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Vorlesungen/CPP_05_Objektorientierung3.pdf",
+                "page": 4,
+                "left": -4,
+                "top": 351,
+                "zoom": 1.4
+              },
+              "icon": "lucide-file-text",
+              "title": "CPP_05_Objektorientierung3"
+            }
+          },
+          {
             "id": "662c0cb12598fa8e",
             "type": "leaf",
             "state": {
@@ -84,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,19 +265,20 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "f32f983706534875",
+  "active": "8d4622e7c063c1f9",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/Testing/Temporary/LastTest.log.tmp33374",
     "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.o.d",
     "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/CXX.dd.rsp",
     "FH_Münster/Semester II/C++/Übungen/untitled2/main.cpp~",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
+    "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt2_Bearbeitung.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_01_Einfuehrung.pdf",
+    "FH_Münster/Semester II/C++/C++ Lernzettel.md",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3.pdf",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3_Bearbeitung.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3_Bearbeitung.xopp",
-    "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/link.d",
-    "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/Uebung3_2",
-    "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.o",
-    "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.ddi",
-    "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/CXX.dd",
-    "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/CXXModules.json",
     "HBBK/EGS4A/Rahmen Notizen.md",
     "HBBK/Unbenannt.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Periodische Funktion.md",
@@ -270,7 +287,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
-    "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "Bilder/Pasted image 20250827114855.png",
     "Bilder/Pasted image 20250827114720.png",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Grenzwerte für Funktionen x -> infty.md",

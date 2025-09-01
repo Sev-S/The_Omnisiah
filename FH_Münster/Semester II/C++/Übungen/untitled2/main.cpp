@@ -20,7 +20,7 @@ public:
 };
 
 
-bool check_identity(Person& person1, Person& person2) {
+bool check_identity(Person person1, Person person2) {
     if (&person1 != &person2) {
         return false;
     }
