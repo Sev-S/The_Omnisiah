@@ -1,4 +1,5 @@
 #include <string>
+#include <print>
 
 class Person {
 private:
@@ -23,5 +24,8 @@ bool check_identity(std::string name1, std::string name2) {
 int main() {
     Person realElvis("elvis");
     Person fakeElvis("elvis");
-    check_identity(realElvis.get_name(), fakeElvis.get_name());
+    if (check_identity(realElvis.get_name(), fakeElvis.get_name()) == true) {
+        std::println ("Sie sind gleich");
+    }
+    std::println ("Sie sind nicht gleich");
 }
