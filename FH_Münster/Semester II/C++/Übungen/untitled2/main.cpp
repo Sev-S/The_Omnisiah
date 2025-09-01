@@ -24,8 +24,7 @@ bool check_identity(Person& person1, Person& person2) {
     if (&person1 != &person2) {
         std::println ("Sie sind nicht gleich");
         return false;
-    }
-    if (&person1 == &person2) {
+    } else {
         std::println ("Sie sind gleich");
         return true;
     }
