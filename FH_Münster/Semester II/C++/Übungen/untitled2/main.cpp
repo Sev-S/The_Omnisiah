@@ -22,16 +22,16 @@ public:
 
 bool check_identity(Person person1, Person person2) {
     if (&person1 != &person2) {
+        std::println ("Sie sind nicht gleich");
         return false;
     }
+    std::println ("Sie sind gleich");
     return true;
 }
 
 int main() {
     Person realElvis("elvis");
     Person fakeElvis("elvis");
-    if (check_identity(realElvis, fakeElvis) == true) {
-        std::println ("Sie sind gleich");
-    }
-    std::println ("Sie sind nicht gleich");
+    check_identity(realElvis, fakeElvis);
+    check_identity(realElvis, realElvis);
 }
