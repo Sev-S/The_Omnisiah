@@ -32,23 +32,11 @@
                 "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3.pdf",
                 "page": 1,
                 "left": -8,
-                "top": 329,
+                "top": 333,
                 "zoom": 1.9150780478299145
               },
               "icon": "lucide-file-text",
               "title": "CPPUebungsblatt3"
-            }
-          },
-          {
-            "id": "9d7470042fbb5404",
-            "type": "leaf",
-            "state": {
-              "type": "docx-view",
-              "state": {
-                "file": "HBBK/EGS4A/Terminplan EGS4.docx"
-              },
-              "icon": "lucide-file",
-              "title": "Terminplan EGS4"
             }
           },
           {
@@ -96,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,11 +249,11 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "9d7470042fbb5404",
+  "active": "f32f983706534875",
   "lastOpenFiles": [
+    "HBBK/EGS4A/Terminplan EGS4.docx",
     "HBBK/EGS4A/Rahmen Notizen.md",
     "HBBK/EGS4A/EGS - Prüfungsstruktur.pdf",
-    "HBBK/EGS4A/Terminplan EGS4.docx",
     "HBBK/EGS4A/Prüfungsvorbereitung (LAU)/Wi23/Winter2023 - Bereitstellungsunterlagen.pdf",
     "HBBK/EGS4A/Prüfungsvorbereitung (LAU)/Wi23/Wi2023 - Arbeitsaufgabe.pdf",
     "HBBK/Unbenannt.md",
