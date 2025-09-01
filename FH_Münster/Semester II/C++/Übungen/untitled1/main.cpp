@@ -24,9 +24,10 @@ int main() {
     Vektor3d vec2{1.0, 0.5, 0.2};
 
     if(vec1 == vec2) {
-        std::println ("Die Vektoren sind gleich");
+        std::println("Die Vektoren sind gleich");
     }
     else {
         std::println ("Die Vektoren sind ungleich");
     }
+    return EXIT_SUCCESS;
 }
