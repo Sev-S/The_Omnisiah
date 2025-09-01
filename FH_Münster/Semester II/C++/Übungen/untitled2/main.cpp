@@ -11,7 +11,12 @@ public:
     std::string get_name() {
         return name;
     };
-    bool ist(const Person& person)
+    bool ist(const Person& person) {
+        if (this == &person) {
+            return true;
+        }
+        return false;
+    }
 };
 
 
