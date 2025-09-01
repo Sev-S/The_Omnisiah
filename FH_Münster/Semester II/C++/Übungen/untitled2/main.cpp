@@ -11,6 +11,7 @@ public:
     std::string get_name() {
         return name;
     };
+    bool ist(const Person& person)
 };
 
 
