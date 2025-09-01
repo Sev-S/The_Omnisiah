@@ -30,9 +30,9 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3.pdf",
-                "page": 1,
+                "page": 3,
                 "left": -8,
-                "top": 161,
+                "top": 847,
                 "zoom": 1.9150780478299145
               },
               "icon": "lucide-file-text",
@@ -251,6 +251,8 @@
   },
   "active": "f32f983706534875",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3_Bearbeitung.pdf",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3_Bearbeitung.xopp",
     "FH_Münster/Semester II/C++/Übungen/untitled2/main.cpp~",
     "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.o.d",
     "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/CXX.dd.rsp",
@@ -260,8 +262,6 @@
     "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.ddi",
     "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/CXX.dd",
     "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/CXXModules.json",
-    "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.o.modmap",
-    "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.o.ddi",
     "HBBK/EGS4A/Rahmen Notizen.md",
     "HBBK/Unbenannt.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Periodische Funktion.md",
