@@ -1,0 +1,1 @@
+Es wird in der Theorie Fragen zu dem Stromlaufplan von vor 2 Jahren geben. In unserem Fall wird das Winter 2023 sein.

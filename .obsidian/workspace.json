@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "9d7470042fbb5404",
+            "type": "leaf",
+            "state": {
+              "type": "docx-view",
+              "state": {
+                "file": "HBBK/EGS4A/Terminplan EGS4.docx"
+              },
+              "icon": "lucide-file",
+              "title": "Terminplan EGS4"
+            }
+          },
+          {
             "id": "662c0cb12598fa8e",
             "type": "leaf",
             "state": {
@@ -84,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,20 +261,20 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "eabc7a00109fe2df",
+  "active": "9d7470042fbb5404",
   "lastOpenFiles": [
-    "HBBK/EGS4A/Prüfungsvorbereitung (LAU)/Wi23/Winter2023 - Bereitstellungsunterlagen.pdf",
-    "HBBK/EGS4A/Prüfungsvorbereitung (LAU)/Wi23/Wi2023 - Lösung Praxis.pdf",
-    "HBBK/EGS4A/Prüfungsvorbereitung (LAU)/Wi23/Wi2023 - Arbeitsaufgabe.pdf",
-    "HBBK/EGS4A/Prüfungsvorbereitung (LAU)/Wi23",
-    "HBBK/EGS4A/Terminplan EGS4.docx",
+    "HBBK/EGS4A/Rahmen Notizen.md",
     "HBBK/EGS4A/EGS - Prüfungsstruktur.pdf",
+    "HBBK/EGS4A/Terminplan EGS4.docx",
+    "HBBK/EGS4A/Prüfungsvorbereitung (LAU)/Wi23/Winter2023 - Bereitstellungsunterlagen.pdf",
+    "HBBK/EGS4A/Prüfungsvorbereitung (LAU)/Wi23/Wi2023 - Arbeitsaufgabe.pdf",
+    "HBBK/Unbenannt.md",
+    "HBBK/EGS4A/Prüfungsvorbereitung (LAU)/Wi23/Wi2023 - Lösung Praxis.pdf",
+    "HBBK/EGS4A/Prüfungsvorbereitung (LAU)/Wi23",
     "HBBK/EGS4A/Prüfungsvorbereitung (KNA)",
     "HBBK/EGS4A/Prüfungsvorbereitung (LAU)",
     "HBBK/EGS4A/Prüfungsvorbereitung WBL (ORT)",
     "HBBK/EGS4A",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3.pdf",
-    "HBBK/Unbenannt.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Periodische Funktion.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Umkehrabbildung.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Absolutbetrag.md",
@@ -288,7 +300,6 @@
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Salewski 04-23.md",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Vorlesung Operationsverstärker.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Geometrische Summenformel.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Konvergenz von Reihen.md",
     "Bilder/Pasted image 20250730092243.png",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
