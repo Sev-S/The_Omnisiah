@@ -20,13 +20,15 @@ public:
 };
 
 
-bool check_identity(Person person1, Person person2) {
+bool check_identity(Person& person1, Person& person2) {
     if (&person1 != &person2) {
         std::println ("Sie sind nicht gleich");
         return false;
     }
-    std::println ("Sie sind gleich");
-    return true;
+    if (&person1 == &person2) {
+        std::println ("Sie sind gleich");
+        return true;
+    }
 }
 
 int main() {
