@@ -20,8 +20,8 @@ public:
 };
 
 
-bool check_identity(std::string name1, std::string name2) {
-    if (&name1 != &name2) {
+bool check_identity(Person& person1, Person& person2) {
+    if (&person1 != &person2) {
         return false;
     }
     return true;
@@ -30,7 +30,7 @@ bool check_identity(std::string name1, std::string name2) {
 int main() {
     Person realElvis("elvis");
     Person fakeElvis("elvis");
-    if (check_identity(realElvis.get_name(), fakeElvis.get_name()) == true) {
+    if (check_identity(realElvis, fakeElvis) == true) {
         std::println ("Sie sind gleich");
     }
     std::println ("Sie sind nicht gleich");
