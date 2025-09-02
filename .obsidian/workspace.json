@@ -30,16 +30,33 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
-                "page": 10,
+                "page": 9,
                 "left": -11,
-                "top": 513,
+                "top": 510,
                 "zoom": 1.3544339891645283
               },
               "icon": "lucide-file-text",
               "title": "IndaktM_Jan"
             }
+          },
+          {
+            "id": "5c979f78ba335391",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum-GdE2.pdf",
+                "page": 2,
+                "left": -8,
+                "top": 477,
+                "zoom": 1.9149365047369482
+              },
+              "icon": "lucide-file-text",
+              "title": "Praktikum-GdE2"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,19 +221,22 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "c2a6906293dbe4cd",
+  "active": "5c979f78ba335391",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/C++/C++ Lernzettel.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum-GdE2.pdf",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 2 - Reihenschingkreise.md",
+    "FH_Münster/Semester II/Elektronik II/Praktika/praktikum3.pdf",
+    "FH_Münster/Semester II/Elektronik II/Praktika/Praktikum 3 Durchführung Loos, Repp.md",
+    "FH_Münster/Semester II/Elektronik II/Praktika/EL2-Praktikum OPV Grundlagen Vorbereitung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Praktika/EL2-Praktikum OPV Grundlagen Durchfuehrung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Praktika/EL2-Praktikum Differenzstufe-2024-Simulation.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
+    "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_00_Organisatorisches.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_01_Einfuehrung.pdf",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/Uebung1/cmake-build-debug/Testing/Temporary/LastTest.log.tmp93b99",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_05_Objektorientierung3.pdf",
-    "FH_Münster/Semester II/C++/Übungen/untitled2/main.cpp~",
-    "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/Testing/Temporary/LastTest.log.tmpcd77c",
     "HBBK/EGS4A/Rahmen Notizen.md",
     "HBBK/Unbenannt.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Periodische Funktion.md",
@@ -240,9 +260,6 @@
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/03-27.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/3 Mos-Inverter.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Nachholerkurs bei Salewski.md",
-    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Salewski 04-23.md",
-    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Vorlesung Operationsverstärker.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Geometrische Summenformel.md",
     "Bilder/Pasted image 20250730092243.png",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
