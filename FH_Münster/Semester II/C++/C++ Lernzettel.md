@@ -20,11 +20,11 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 	```int i = 4.3; ```
 ## Call-by-Value
 - Es wird direkt eine Variable an eine Funktion übergeben
-- Variable kann bearbeitet werden
+- Bearbeitung wirkt sich nur in der Funktion aus
 	```foo (i) {};```
 ## Call-by-Reference
 - Es wird ein Pointer bzw. eine reference auf eine Variable übergeben
-- Variable kann nicht bearbeitet werden und wird nur zum Rechnen benutzt
+- Bearbeitung ist auch außerhalb der Funktion gültig
 	```foo (&i) {};```
 	```foo (*i) {};```
 ## Globale Variablen
