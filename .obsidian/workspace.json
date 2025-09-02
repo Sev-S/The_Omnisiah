@@ -38,25 +38,8 @@
               "icon": "lucide-file-text",
               "title": "IndaktM_Jan"
             }
-          },
-          {
-            "id": "5c979f78ba335391",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum-GdE2.pdf",
-                "page": 2,
-                "left": -8,
-                "top": 477,
-                "zoom": 1.9149365047369482
-              },
-              "icon": "lucide-file-text",
-              "title": "Praktikum-GdE2"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,10 +204,12 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "5c979f78ba335391",
+  "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",
+    "FH_Münster/Semester I/Mathematik I/Übungen/4.6a-f.pdf",
+    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum-GdE2.pdf",
+    "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 2 - Reihenschingkreise.md",
     "FH_Münster/Semester II/Elektronik II/Praktika/praktikum3.pdf",
     "FH_Münster/Semester II/Elektronik II/Praktika/Praktikum 3 Durchführung Loos, Repp.md",
@@ -232,7 +217,6 @@
     "FH_Münster/Semester II/Elektronik II/Praktika/EL2-Praktikum OPV Grundlagen Durchfuehrung.pdf",
     "FH_Münster/Semester II/Elektronik II/Praktika/EL2-Praktikum Differenzstufe-2024-Simulation.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_00_Organisatorisches.pdf",
