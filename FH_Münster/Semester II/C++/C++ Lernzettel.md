@@ -11,7 +11,7 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 - Keine vordefinierten Funktionen, es sei denn sie werden aktiv überladen
 	```int new {0};``` wäre falsch
 - Der Zeichensatz umfasst das Alphabet in groß und klein, alle Zahlen und _
-- Es darf höchstens ein _ aufeinander folgen
+- Es darf höchstens ein _ aufeinander folgend zu Beginn haben
 - Ein Name darf nicht mit einer Zahl beginnen
 ## Explizite und Implizite Typumwandlung
 - Explizite Typumwandlung ruft direkt zu einer Typumwandlung auf
