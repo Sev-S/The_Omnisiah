@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "b27750873901323d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 846,
-                "zoom": 1.9150780478299145
-              },
-              "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt1_Bearbeitung"
-            }
-          },
-          {
             "id": "662c0cb12598fa8e",
             "type": "leaf",
             "state": {
@@ -83,8 +67,7 @@
               "title": "IndaktM_Jan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,8 +232,9 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "b27750873901323d",
+  "active": "c2a6906293dbe4cd",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_05_Objektorientierung3.pdf",
     "FH_Münster/Semester II/C++/Übungen/untitled2/main.cpp~",
@@ -261,7 +245,6 @@
     "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/CXX.dd.rsp",
     "FH_Münster/Semester II/C++/Übungen/untitled2/cmake-build-debug/Testing/Temporary/LastTest.log.tmp33374",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
-    "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "HBBK/EGS4A/Rahmen Notizen.md",
     "HBBK/Unbenannt.md",
