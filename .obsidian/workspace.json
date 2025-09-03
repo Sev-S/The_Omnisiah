@@ -59,12 +59,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3_Bearbeitung.pdf",
+                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4.pdf",
                 "page": 1,
-                "zoom": 1
+                "left": -8,
+                "top": 709,
+                "zoom": 1.9150780478299145
               },
               "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt3_Bearbeitung"
+              "title": "CPPUebungsblatt4"
             }
           },
           {
@@ -251,6 +253,9 @@
   },
   "active": "413612adacbd7e8d",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.pdf",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.xopp",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3_Bearbeitung.pdf",
     "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/link.d",
     "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.o.d",
     "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/CXX.dd.rsp",
@@ -259,9 +264,6 @@
     "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.o",
     "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/CXX.dd.tmpac7c8",
     "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.ddi",
-    "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/CXX.dd",
-    "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/CXXModules.json",
-    "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.o.modmap",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",
