@@ -1,39 +1,44 @@
 #include <iostream>
+#include <print>
 using namespace std;
 
-class Flugzeug {
+class Vortbewegungsmittel {
+    public:
+    virtual void bewegen () = 0;
+};
+
+class Flugzeug : public Vortbewegungsmittel {
 public:
-    void fliegen () {
+    void bewegen () {
         std::println("Ich fliege!");
     }
 };
 
-class Auto {
+class Auto : public Vortbewegungsmittel {
 public:
-    void fahren() {
+    void bewegen() {
         std::println("Ich fahre!");
     }
 };
 
-class Longboard {
+class Longboard : public Vortbewegungsmittel {
 public:
-    void rollen() {
+    void bewegen() {
         std::println("Ich rolle!!");
+    }
+};
+
+class Fahrrad : public Vortbewegungsmittel {
+    public:
+    void bewegen() {
+        std::println("Ich radel!");
     }
 };
 
 class Fortbewegung {
 public:
-    static void sich_fortbewegen(Flugzeug &f) {
-        f.fliegen();
-    }
-
-    static void sich_fortbewegen(Auto &a) {
-        a.fahren();
-    }
-
-    static void sich_fortbewegen(Longboard &l) {
-        l.rollen();
+    static void sich_fortbewegen(Vortbewegungsmittel &v) {
+        v.bewegen();
     }
 };
 
@@ -42,10 +47,12 @@ int main() {
     Flugzeug f;
     Auto a;
     Longboard l;
+    Fahrrad f2;
 
     Fortbewegung::sich_fortbewegen(f);
     Fortbewegung::sich_fortbewegen(a);
     Fortbewegung::sich_fortbewegen(l);
+    Fortbewegung::sich_fortbewegen(f2);
 
     return 0;
 }
