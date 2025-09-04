@@ -43,14 +43,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.pdf",
+                "file": "FH_Münster/Semester II/Elektronik II/Übungsstunde Handmitschrift.pdf",
                 "page": 1,
-                "left": 80,
-                "top": 124,
-                "zoom": 3.44
+                "left": -8,
+                "top": 846,
+                "zoom": 1.915079366852587
               },
               "icon": "lucide-file-text",
-              "title": "uebung_OP"
+              "title": "Übungsstunde Handmitschrift"
             }
           },
           {
@@ -235,20 +235,20 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "eabc7a00109fe2df",
+  "active": "8ba61b8872ee43e4",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_A_Lösung.xopp~",
+    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_Bearbeitung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_Bearbeitung.xopp",
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_A_Lösung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_A_Lösung.xopp",
     "FH_Münster/Semester II/Elektronik II/Übungsstunde Handmitschrift.xopp~",
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
     "FH_Münster/Semester II/Elektronik II/Übungsstunde Handmitschrift.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungsstunde Handmitschrift.xopp",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4.pdf",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_07_WerteZeigerReferenzen.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.xopp~",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",
