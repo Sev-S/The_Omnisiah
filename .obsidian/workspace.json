@@ -24,63 +24,17 @@
             }
           },
           {
-            "id": "3e445966679fb000",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/cpp Übungsstunde.pdf",
-                "page": 1,
-                "left": -7,
-                "top": 796,
-                "zoom": 2.199498360023153
-              },
-              "icon": "lucide-file-text",
-              "title": "cpp Übungsstunde"
-            }
-          },
-          {
-            "id": "e4927065e3959fc7",
+            "id": "413612adacbd7e8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FH_Münster/Semester II/C++/C++ Lernzettel.md",
+                "file": "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++ Lernzettel"
-            }
-          },
-          {
-            "id": "413612adacbd7e8d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4.pdf",
-                "page": 2,
-                "left": -12,
-                "top": 769,
-                "zoom": 1.89
-              },
-              "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt4"
-            }
-          },
-          {
-            "id": "cc992cdcb18979ec",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Vorlesungen/CPP_07_WerteZeigerReferenzen.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "CPP_07_WerteZeigerReferenzen"
+              "title": "Übungsstunde Mitschrift"
             }
           },
           {
@@ -100,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,19 +219,20 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "cc992cdcb18979ec",
+  "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.xopp~",
+    "FH_Münster/Semester II/Elektronik II/Übungsstunde Handmitschrift.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungsstunde Handmitschrift.xopp",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_07_WerteZeigerReferenzen.pdf",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.xopp~",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.pdf",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.xopp",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3_Bearbeitung.pdf",
     "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/link.d",
     "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.o.d",
     "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/CXX.dd.rsp",
-    "FH_Münster/Semester II/C++/Übungen/Uebung3_2/main.cpp~",
-    "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/Uebung3_2",
-    "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.o",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",
@@ -304,7 +259,6 @@
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Kapitel02.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/03-27.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/3 Mos-Inverter.md",
     "Bilder/Pasted image 20250730092243.png",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
