@@ -11,4 +11,3 @@
 - Differenzverstärker ist bei ihm ein Subtrahierer
 - Offset-Spannung gibt es bei uns nicht
 - Stromspiegel Ausgangsspannungsformeln und Ausgangswiderstände
-- 
