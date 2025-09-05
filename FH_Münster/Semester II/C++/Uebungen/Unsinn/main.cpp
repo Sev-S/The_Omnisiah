@@ -19,7 +19,7 @@ int main_ungru() {
 }
 
 int main_tj() {
-    Quadrat quad(5);
-    quad.zeichnen();
+    Quadrat *quad {new Quadrat(5)};
+    quad->zeichnen();
     delete quad;
 }
