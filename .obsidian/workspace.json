@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 25,
-                "left": -8,
-                "top": 239,
-                "zoom": 1.9150780478299145
+                "page": 26,
+                "left": -92,
+                "top": 772,
+                "zoom": 1.5
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
@@ -30,9 +30,9 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
-                "page": 9,
+                "page": 6,
                 "left": -11,
-                "top": 510,
+                "top": 4,
                 "zoom": 1.3544339891645283
               },
               "icon": "lucide-file-text",
@@ -206,6 +206,10 @@
   },
   "active": "c2a6906293dbe4cd",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Übungen/4.13 Ganzrationale Funktionen.pdf",
+    "FH_Münster/Semester I/Mathematik I/Indakt^M/IndaktM_Jan.pdf",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt1_Bearbeitung.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/main.cpp.o.d",
     "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/CMakeFiles/Uebung3_2.dir/CXX.dd.rsp",
     "FH_Münster/Semester II/C++/Übungen/Uebung3_2/main.cpp~",
@@ -213,11 +217,7 @@
     "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungsstunde Handmitschrift.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_A_Lösung.xopp~",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",
