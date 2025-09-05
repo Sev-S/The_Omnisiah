@@ -9,3 +9,9 @@ class Quadrat {
     private:
         int groesse;
 };
+
+int main() {
+    Quadrat *quad {new Quadrat[5]};
+    quad->zeichnen();
+    delete quad;
+}
