@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "ce615eae95a6f821",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 705,
-                "zoom": 1.9150780478299145
-              },
-              "icon": "lucide-file-text",
-              "title": "Alklausur_Datenkrake"
-            }
-          },
-          {
             "id": "985c001d09d27abd",
             "type": "leaf",
             "state": {
@@ -55,8 +39,7 @@
               "title": "IndaktM_Jan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,8 +204,9 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "ce615eae95a6f821",
+  "active": "c2a6906293dbe4cd",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3.pdf",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4.pdf",
@@ -234,7 +218,6 @@
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_Bearbeitung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_Bearbeitung.xopp",
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_A_Lösung.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_A_Lösung.xopp",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",
