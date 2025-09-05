@@ -1,4 +1,5 @@
 #include <print>
+#include <stdlib.h>
 
 class Quadrat {
     public:
@@ -10,8 +11,14 @@ class Quadrat {
         int groesse;
 };
 
-int main() {
+int main_ungru() {
     Quadrat *quad {new Quadrat[5]};
     quad->zeichnen();
-    delete quad;
+    delete Quadrat;
+    return EXIT_SUCCESS;
+}
+
+int main_tj() {
+    Quadrat *quad(5);
+    quad->zeichnen();
 }
