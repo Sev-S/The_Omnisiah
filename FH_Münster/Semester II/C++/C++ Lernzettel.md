@@ -18,7 +18,7 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 - Es darf höchstens ein _ aufeinander folgend zu Beginn haben
 - Ein Name darf nicht mit einer Zahl beginnen
 ## Unterschied zwischen Pointern und Referenzen
-- Pointer zeigen auf einen Adrressereich der so groß ist wie der Datentyp
+- Pointer zeigen auf einen Adressereich der so groß ist wie der Datentyp
 - Referenzen erzeugen einen Zeiger auf die Adresse einer Variable
 ## Explizite und Implizite Typumwandlung
 - Explizite Typumwandlung ruft direkt zu einer Typumwandlung auf
@@ -42,6 +42,10 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 - Konkret oder abstrakt
 - nicht originalgetreu
 - hebt manche Eigenschaften hervor
+## Smarte Zeiger
+### Hängende Zeiger
+- "dangling pointer"
+- Zeiger die auf eine Speicherstelle Zeigen, auf die man nicht mehr zugreifen kann, weil das dort gespeicherte Objekt gelöscht wurde
 ## UML Diagrammtypen
 ### Strukturdiagramm
 - Statisch
