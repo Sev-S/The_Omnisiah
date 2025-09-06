@@ -4,7 +4,8 @@
 3. Präprozessor
 	- editiert Code mit Präprozessor-Direktiven (alles mit #)
 4. Compiler
-	- Erstellt aus Quellcode Maschienencode, der von der CPU verarbeitet werden kann
+	- Erstellt aus Quellcode Maschinencode, der von der CPU verarbeitet werden kann
+	- Der Maschinencode wird in einer Objekt-Datei gespeichert
 5. Linker
 6. Ausführen der erstellten Datei
 ## Objektdatei
