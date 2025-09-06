@@ -17,6 +17,9 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 - Der Zeichensatz umfasst das Alphabet in groß und klein, alle Zahlen und _
 - Es darf höchstens ein _ aufeinander folgend zu Beginn haben
 - Ein Name darf nicht mit einer Zahl beginnen
+## Unterschied zwischen Pointern und Referenzen
+- Pointer zeigen auf einen Adrressereich der so groß ist wie der Datentyp
+- Referenzen erzeugen einen Zeiger auf die Adresse einer Variable
 ## Explizite und Implizite Typumwandlung
 - Explizite Typumwandlung ruft direkt zu einer Typumwandlung auf
 	```int i = static_cast <int> (4.3); ```
