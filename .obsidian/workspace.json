@@ -30,10 +30,8 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.pdf",
-                "page": 2,
-                "left": -8,
-                "top": 661,
-                "zoom": 1.9150780478299145
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "CPPUebungsblatt4_Bearbeitung"
@@ -223,6 +221,7 @@
   },
   "active": "eabc7a00109fe2df",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.xopp~",
     "FH_Münster/Semester I/Mathematik I/Übungen/4.14 Polynom 4. Grades.pdf",
     "FH_Münster/Semester II/C++/Uebungen/Unsinn/main.cpp~",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
@@ -233,7 +232,6 @@
     "FH_Münster/Semester II/C++/Uebungen/Unsinn/cmake-build-debug/CMakeFiles/InstallScripts.json",
     "FH_Münster/Semester II/C++/Uebungen/Unsinn/cmake-build-debug/build.ninja",
     "FH_Münster/Semester II/C++/Uebungen/Unsinn/cmake-build-debug/CMakeFiles/rules.ninja",
-    "FH_Münster/Semester II/C++/Uebungen/Unsinn/cmake-build-debug/CMakeFiles/TargetDirectories.txt",
     "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
