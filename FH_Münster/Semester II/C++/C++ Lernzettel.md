@@ -2,7 +2,9 @@
 1. C++-Source Datei erstellen
 2. Implementierung einer Aufgabe
 3. Präprozessor
+	- editiert Code mit Präprozessor-Direktiven (alles mit #)
 4. Compiler
+	- Erstellt aus Quellcode Maschienencode, der von der CPU verarbeitet werden kann
 5. Linker
 6. Ausführen der erstellten Datei
 ## Objektdatei
