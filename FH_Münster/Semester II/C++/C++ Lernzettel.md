@@ -45,6 +45,7 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 ## Literale
 - Normale Zahle 
 - werden als ```const``` gesehen
+- können nicht mit ``` ++  ``` oder ``` --  ``` inkrementiert werden
 ## Smarte Zeiger
 ### Hängende Zeiger
 - "dangling pointer"
