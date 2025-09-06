@@ -54,6 +54,11 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 - Literale und Konstanten können auch R-Werte sein
 - Können ==nur== rechts stehen
 ## Smarte Zeiger
+- Speicherbedarf erst zu Laufzeit bekannt
+- Objekte werden nicht direkt zum Ende des Wertebereichs gelöscht
+- Deklaration und Initialisierung von Objekten kann an verschiedenen Orten erfolgen
+## Dynamische Speicherverwaltung
+
 ### Hängende Zeiger
 - "dangling pointer"
 - Zeiger die auf eine Speicherstelle Zeigen, auf die man nicht mehr zugreifen kann, weil das dort gespeicherte Objekt gelöscht wurde
