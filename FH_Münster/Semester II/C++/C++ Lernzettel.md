@@ -7,6 +7,7 @@
 	- Erstellt aus Quellcode Maschinencode, der von der CPU verarbeitet werden kann
 	- Der Maschinencode wird in einer Objekt-Datei gespeichert
 5. Linker
+	- 
 6. Ausführen der erstellten Datei
 ## Objektdatei
 Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erstellt wird. Sie ist eine kombinierte Datei aus Source- und Header-Dateien
