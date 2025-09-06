@@ -30,13 +30,29 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.pdf",
-                "page": 1,
+                "page": 2,
                 "left": -8,
-                "top": 551,
+                "top": 839,
                 "zoom": 1.9150780478299143
               },
               "icon": "lucide-file-text",
               "title": "CPPUebungsblatt4_Bearbeitung"
+            }
+          },
+          {
+            "id": "a0894f565cd77d8b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Vorlesungen/CPP_07_WerteZeigerReferenzen.pdf",
+                "page": 9,
+                "left": -11,
+                "top": 572,
+                "zoom": 1.3539192399049884
+              },
+              "icon": "lucide-file-text",
+              "title": "CPP_07_WerteZeigerReferenzen"
             }
           },
           {
@@ -86,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -254,6 +270,7 @@
   "active": "bea7c64b082dbb3d",
   "lastOpenFiles": [
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_07_WerteZeigerReferenzen.pdf",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
@@ -263,7 +280,6 @@
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.xopp~",
     "FH_Münster/Semester I/Mathematik I/Übungen/4.14 Polynom 4. Grades.pdf",
     "FH_Münster/Semester II/C++/Uebungen/Unsinn/main.cpp~",
-    "FH_Münster/Semester II/C++/Uebungen/Unsinn/cmake-build-debug/Testing/Temporary/LastTest.log",
     "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",

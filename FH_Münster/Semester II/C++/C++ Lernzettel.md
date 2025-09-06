@@ -46,10 +46,19 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 - Normale Zahle 
 - werden als ```const``` gesehen
 - können nicht mit ``` ++  ``` oder ``` --  ``` inkrementiert werden
+## L-Werte
+- Enthält Namen mit dem das Programm auf die Adresse eines L-Wertes zugreifen kann
+- Kann auch rechts stehen
+## R-Werte
+- Temporärer Wert der aus Rechnung oder Funktion entstehen kann
+- Literale und Konstanten können auch R-Werte sein
+- Können ==nur== rechts stehen
 ## Smarte Zeiger
 ### Hängende Zeiger
 - "dangling pointer"
 - Zeiger die auf eine Speicherstelle Zeigen, auf die man nicht mehr zugreifen kann, weil das dort gespeicherte Objekt gelöscht wurde
+## Zeiger auf R-Werte
+- Auf R-Werte kann nur mit der Referenz ``` &&a  ``` zugegriffen werden
 ## UML Diagrammtypen
 ### Strukturdiagramm
 - Statisch
