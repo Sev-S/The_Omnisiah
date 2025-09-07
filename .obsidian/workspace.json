@@ -38,39 +38,39 @@
             }
           },
           {
+            "id": "e62f78b31f6570a8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
+                "page": 2,
+                "left": -8,
+                "top": 375,
+                "zoom": 1.9150780478299145
+              },
+              "icon": "lucide-file-text",
+              "title": "Alklausur_Datenkrake"
+            }
+          },
+          {
             "id": "3b651d62e9e69a43",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FH_Münster/Semester II/C++/Vorlesungen/CPP_05_Objektorientierung3.pdf",
-                "page": 9,
+                "file": "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
+                "page": 4,
                 "left": -11,
-                "top": 595,
+                "top": 256,
                 "zoom": 1.3539192399049884
               },
               "icon": "lucide-file-text",
-              "title": "CPP_05_Objektorientierung3"
-            }
-          },
-          {
-            "id": "a15ffd2edd673c7d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/cpp Übungsstunde.pdf",
-                "page": 1,
-                "left": -7,
-                "top": 796,
-                "zoom": 2.199498360023153
-              },
-              "icon": "lucide-file-text",
-              "title": "cpp Übungsstunde"
+              "title": "CPP_04_Objektorientierung2"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,17 +237,18 @@
   },
   "active": "3b651d62e9e69a43",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/C++/C++ Lernzettel.md",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_05_Objektorientierung3.pdf",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_01_Einfuehrung.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_05_Objektorientierung3.pdf",
+    "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
+    "FH_Münster/Semester II/C++/C++ Lernzettel.md",
+    "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_07_WerteZeigerReferenzen.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_06_Programmstrukturierung.pdf",
     "FH_Münster/Semester II/C++/cpp Übungsstunde.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.pdf",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_01_Einfuehrung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",

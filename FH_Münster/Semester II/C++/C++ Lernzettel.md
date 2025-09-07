@@ -1,3 +1,7 @@
+## Basisprinzipien von OOP
+- Polymorphie
+- Kapselung
+- Vererbung
 ## Erstellung eines C++ Programms
 1. C++-Source Datei erstellen
 2. Implementierung einer Aufgabe
