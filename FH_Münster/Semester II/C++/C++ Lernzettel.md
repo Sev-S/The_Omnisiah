@@ -70,6 +70,10 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 - Zeiger die auf eine Speicherstelle Zeigen, auf die man nicht mehr zugreifen kann, weil das dort gespeicherte Objekt gelöscht wurde
 ## Zeiger auf R-Werte
 - Auf R-Werte kann nur mit der Referenz ``` &&a  ``` zugegriffen werden
+## Operatorüberladung
+- Darf nicht die selben Werttyp einnehmen
+- Welche Funktion genutzt wird wird statisch zur Kompilierzeit festgelegt
+- 
 ## UML Diagrammtypen
 ### Strukturdiagramm
 - Statisch
