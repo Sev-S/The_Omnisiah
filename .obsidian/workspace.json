@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "cf710f262d9ed8c1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.pdf",
-                "page": 2,
-                "left": -8,
-                "top": 668,
-                "zoom": 1.9150780478299143
-              },
-              "icon": "lucide-file-text",
-              "title": "CPPUebungsblatt4_Bearbeitung"
-            }
-          },
-          {
             "id": "bea7c64b082dbb3d",
             "type": "leaf",
             "state": {
@@ -51,6 +35,22 @@
               },
               "icon": "lucide-file",
               "title": "C++ Lernzettel"
+            }
+          },
+          {
+            "id": "3b651d62e9e69a43",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
+                "page": 30,
+                "left": -11,
+                "top": 530,
+                "zoom": 1.3539192399049884
+              },
+              "icon": "lucide-file-text",
+              "title": "CPP_03_Grundlagen"
             }
           },
           {
@@ -235,19 +235,19 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "bea7c64b082dbb3d",
+  "active": "3b651d62e9e69a43",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.pdf",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_06_Programmstrukturierung.pdf",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_05_Objektorientierung3.pdf",
+    "FH_Münster/Semester II/C++/cpp Übungsstunde.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_07_WerteZeigerReferenzen.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_01_Einfuehrung.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-    "FH_Münster/Semester II/C++/cpp Übungsstunde.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt4_Bearbeitung.xopp~",
-    "FH_Münster/Semester I/Mathematik I/Übungen/4.14 Polynom 4. Grades.pdf",
-    "FH_Münster/Semester II/C++/Uebungen/Unsinn/main.cpp~",
     "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",

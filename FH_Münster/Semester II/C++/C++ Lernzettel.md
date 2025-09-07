@@ -23,8 +23,12 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 ## Explizite und Implizite Typumwandlung
 - Explizite Typumwandlung ruft direkt zu einer Typumwandlung auf
 	```int i = static_cast <int> (4.3); ```
+	```int i = dynamic_cast <int> (4.3);```
+	```int i = const_cast <int> (4.3);	```
+	```int i = reinterpret_cast <int> (4.3);	```
 - Implizite Typumwandlung ruft nur indirekt zu einer Typumwandlung auf
 	```int i = 4.3; ```
+- 
 ## Call-by-Value
 - Es wird direkt eine Variable an eine Funktion übergeben
 - Bearbeitung wirkt sich nur in der Funktion aus
