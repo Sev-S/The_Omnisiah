@@ -22,10 +22,10 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 - Referenzen erzeugen einen Zeiger auf die Adresse einer Variable
 ## Explizite und Implizite Typumwandlung
 - Explizite Typumwandlung ruft direkt zu einer Typumwandlung auf
-	```int i = static_cast <int> (4.3); ```
-	```int i = dynamic_cast <int> (4.3);```
-	```int i = const_cast <int> (4.3);	```
-	```int i = reinterpret_cast <int> (4.3);	```
+	```int i = static_cast <int> (4.3); ``` -> Kontrolle zu Kompilierzeit
+	```int i = dynamic_cast <int> (4.3);``` -> Kontrolle zu Laufzeit
+	```int i = const_cast <int> (4.3);	```-> kann const beseitigen
+	```int i = reinterpret_cast <int> (4.3);```-> Kontrolliert nur const
 - Implizite Typumwandlung ruft nur indirekt zu einer Typumwandlung auf
 	```int i = 4.3; ```
 - Explizite Typumwandlung wird präferiert
