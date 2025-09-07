@@ -73,6 +73,8 @@ Eine Objektdatei ist eine Zwischendatei, die beim kompilieren des Programms erst
 ## Operatorüberladung
 - Darf nicht die selben Werttyp einnehmen
 - Welche Funktion genutzt wird wird statisch zur Kompilierzeit festgelegt
+- Arithmetische Funktionen können nicht überladen werden
+- Reihenfolge der Operatoren kann nicht geändert werden
 - 
 ## UML Diagrammtypen
 ### Strukturdiagramm
