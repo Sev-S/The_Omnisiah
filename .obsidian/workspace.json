@@ -30,29 +30,15 @@
               "type": "markdown",
               "state": {
                 "file": "FH_Münster/Semester II/C++/C++ Lernzettel.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "C++ Lernzettel"
             }
-          },
-          {
-            "id": "e62f78b31f6570a8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Musterklausur"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "e3b7bf3259b29e1f",
@@ -217,10 +204,10 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "e62f78b31f6570a8",
+  "active": "bea7c64b082dbb3d",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
+    "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
     "FH_Münster/Semester II/C++/cpp Übungsstunde.pdf",
     "Random/DnD/Mortarion für DnD.md",
