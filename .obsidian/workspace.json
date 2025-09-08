@@ -38,6 +38,22 @@
             }
           },
           {
+            "id": "3dd536a205fb1202",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3.pdf",
+                "page": 3,
+                "left": -8,
+                "top": 616,
+                "zoom": 1.9150780478299145
+              },
+              "icon": "lucide-file-text",
+              "title": "CPPUebungsblatt3"
+            }
+          },
+          {
             "id": "e62f78b31f6570a8",
             "type": "leaf",
             "state": {
@@ -54,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,10 +235,11 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "bea7c64b082dbb3d",
+  "active": "3dd536a205fb1202",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
+    "FH_Münster/Semester II/C++/Uebungen/untitled2/cmake-build-debug/CMakeCache.txt",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
+    "FH_Münster/Semester II/C++/Vorlesungen/CPP_04_Objektorientierung2.pdf",
     "FH_Münster/Semester II/C++/Alklausur/Alklausur_Datenkrake.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_03_Grundlagen.pdf",
     "FH_Münster/Semester II/C++/Vorlesungen/CPP_02_Objektorientierung1.pdf",
