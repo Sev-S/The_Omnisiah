@@ -2,6 +2,13 @@
 - Polymorphie
 - Kapselung
 - Vererbung
+## Modell
+- Absichtlich nicht Originalgetreu
+- Abbild oder Vorbild
+- Hebt Eigenschaften hervor und lässt andere weg
+- Konkret oder abstrakt
+## UML
+[UML Basics](https://www.tutorialspoint.com/uml/uml_basic_notations.htm)
 ## Erstellung eines C++ Programms
 1. C++-Source Datei erstellen
 2. Implementierung einer Aufgabe
