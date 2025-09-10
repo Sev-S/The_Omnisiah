@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 16,
+                "page": 26,
                 "left": -8,
-                "top": 808,
+                "top": 470,
                 "zoom": 1.9150780478299145
               },
               "icon": "lucide-file-text",
@@ -190,9 +190,11 @@
   },
   "active": "c2a6906293dbe4cd",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Übungen/4.15 Gebrochenrationale Funktionen.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/3.14a-f Konvergenz von Reihen.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/2.10 Vollständige Induktion geometrisch.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.10.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/2.8 Bernoulische Ungleichung.pdf",
     "FH_Münster/Semester II/C++/C++ Lernzettel.md",
     "FH_Münster/Semester II/C++/Alklausur/Musterklausur.pdf",
@@ -203,8 +205,6 @@
     "Random/Warhammer/30k Death Guard army list.md",
     "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3.pdf",
     "FH_Münster/Semester II/C++/Übungen/Uebung3_2/cmake-build-debug/Testing/Temporary/LastTest.log.tmp8c332",
-    "FH_Münster/Semester II/C++/Uebungen/untitled1/cmake-build-debug/CMakeCache.txt",
-    "FH_Münster/Semester II/C++/Uebungen/untitled2/cmake-build-debug/CMakeCache.txt",
     "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",
