@@ -14,27 +14,27 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 28,
+                "left": -8,
+                "top": 824,
+                "zoom": 1.9150780478299145
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
             }
           },
           {
-            "id": "32a3976efa746b17",
+            "id": "cbf423ab79634945",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Übungen/3.9.pdf",
-                "page": 2,
-                "left": -8,
-                "top": 551,
-                "zoom": 1.915079366852587
+                "file": "FH_Münster/Semester I/Mathematik I/Definitionen/Die Menge C.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "3.9"
+              "icon": "lucide-file",
+              "title": "Die Menge C"
             }
           }
         ]
@@ -204,10 +204,12 @@
   },
   "active": "c2a6906293dbe4cd",
   "lastOpenFiles": [
-    "FH_Münster/Semester I/Mathematik I/Übungen/3.9.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/4.15 Gebrochenrationale Funktionen.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/5.1 Rechenregel für komplexe Zahlen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.14a-f Konvergenz von Reihen.pdf",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Die Menge C.md",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/3.9.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/4.15 Gebrochenrationale Funktionen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/2.10 Vollständige Induktion geometrisch.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.10.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/2.8 Bernoulische Ungleichung.pdf",
@@ -218,7 +220,6 @@
     "Random/DnD/Mortarion für DnD.md",
     "Random/DnD/Lillypsis.md",
     "Random/Warhammer/30k Death Guard army list.md",
-    "FH_Münster/Semester II/C++/Uebungen/CPPUebungsblatt3.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",
@@ -241,7 +242,6 @@
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/7.1.md",
     "FH_Münster/Semester II/Mathematik II/Übungen Mathematik II/6.1.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Majoranten- und Minorantenkriterium für Reihen.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
     "Bilder/Pasted image 20250730092243.png",
     "Bilder/Pasted image 20250715145841.png",
     "Bilder/Pasted image 20250715145750.png",
