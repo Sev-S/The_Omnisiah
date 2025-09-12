@@ -14,8 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 29,
+                "left": -10,
+                "top": 660,
+                "zoom": 1.9
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
@@ -188,19 +190,19 @@
   },
   "active": "c2a6906293dbe4cd",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Übungen/5.5 a-h Exponentielle Darstellung komplexer Zahlen.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/2.10 Vollständige Induktion geometrisch.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.25 Graph einer Abbildung.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.26 Bild und Urbild.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/2.2 Intervalle.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.30 a,b.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.27 Surjektivität und Injektivität a,b,e-h.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.29 a-d Bijektivität und Umkehrfunktion.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/4.6a-f.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/4.5.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/5.4 Kartesische Darstellung komplexer Zahlen.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/exponentielle Darstellung.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/kartesisches Produkt.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/5.3 Rechenregeln für den Betrag komplexer Zahlen.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Die Menge C.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Betrag komplexer Zahl.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/komplexe Konjugation.md",
