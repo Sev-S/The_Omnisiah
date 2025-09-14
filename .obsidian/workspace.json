@@ -16,7 +16,7 @@
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
                 "page": 43,
                 "left": -8,
-                "top": 474,
+                "top": 361,
                 "zoom": 1.9150780478299145
               },
               "icon": "lucide-file-text",
@@ -30,15 +30,16 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 20,
+                "left": -8,
+                "top": 567,
+                "zoom": 1.9150780478299145
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,8 +204,9 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "da3e10296fde2cc6",
+  "active": "c2a6906293dbe4cd",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Übungen/Probeklausur.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.23 Äquivalenzklassen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.21 i,vi) Relation.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
@@ -218,7 +220,6 @@
     "FH_Münster/Semester I/Mathematik I/Übungen/5.6 a,b,f,g Elementare Zusammenhänge bei komplexen Zahlen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/5.5 a-h Exponentielle Darstellung komplexer Zahlen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/2.10 Vollständige Induktion geometrisch.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.25 Graph einer Abbildung.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/exponentielle Darstellung.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/kartesisches Produkt.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Die Menge C.md",
