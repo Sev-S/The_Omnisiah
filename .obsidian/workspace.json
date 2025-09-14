@@ -24,6 +24,22 @@
             }
           },
           {
+            "id": "15dcc1ddfd8b9fdd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester I/Mathematik I/Übungen/Gedankenklausur Lösung.pdf",
+                "page": 1,
+                "left": -6,
+                "top": 592,
+                "zoom": 2.5052742616033754
+              },
+              "icon": "lucide-file-text",
+              "title": "Gedankenklausur Lösung"
+            }
+          },
+          {
             "id": "da3e10296fde2cc6",
             "type": "leaf",
             "state": {
@@ -39,7 +55,8 @@
               "title": "Mathematik I Übungen V2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,12 +221,13 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "c2a6906293dbe4cd",
+  "active": "15dcc1ddfd8b9fdd",
   "lastOpenFiles": [
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Gedankenklausur Lösung.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Probeklausur.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.23 Äquivalenzklassen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.21 i,vi) Relation.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.9.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.10.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.14a-f Konvergenz von Reihen.pdf",
@@ -219,7 +237,6 @@
     "FH_Münster/Semester I/Mathematik I/Übungen/5.7 Lösungsnenge komplexer Gleichungen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/5.6 a,b,f,g Elementare Zusammenhänge bei komplexen Zahlen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/5.5 a-h Exponentielle Darstellung komplexer Zahlen.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/2.10 Vollständige Induktion geometrisch.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/exponentielle Darstellung.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/kartesisches Produkt.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Die Menge C.md",
