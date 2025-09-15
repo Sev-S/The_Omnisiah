@@ -8,55 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2a6906293dbe4cd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 43,
-                "left": -8,
-                "top": 361,
-                "zoom": 1.9150780478299145
-              },
-              "icon": "lucide-file-text",
-              "title": "Mathematik I Übungen V2"
-            }
-          },
-          {
-            "id": "15dcc1ddfd8b9fdd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Übungen/Gedankenklausur Lösung.pdf",
-                "page": 1,
-                "left": -6,
-                "top": 592,
-                "zoom": 2.5052742616033754
-              },
-              "icon": "lucide-file-text",
-              "title": "Gedankenklausur Lösung"
-            }
-          },
-          {
             "id": "da3e10296fde2cc6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-                "page": 20,
-                "left": -8,
-                "top": 567,
-                "zoom": 1.9150780478299145
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Mathematik I Übungen V2"
             }
+          },
+          {
+            "id": "6bdeb854d9b06beb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester I/Mathematik I/Übungen/Gedankenklausur Lösung.pdf",
+                "page": 3,
+                "left": -6,
+                "top": 458,
+                "zoom": 2.5052742616033754
+              },
+              "icon": "lucide-file-text",
+              "title": "Gedankenklausur Lösung"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,14 +202,15 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "15dcc1ddfd8b9fdd",
+  "active": "da3e10296fde2cc6",
   "lastOpenFiles": [
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Gedankenklausur Lösung.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/Probeklausur.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+    "FH_Münster/Semester I/Mathematik I/Übungen/3.9.pdf",
+    "FH_Münster/Semester I/Mathematik I/Definitionen/Fakultät und Binomialkoeffizient.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.23 Äquivalenzklassen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/1.21 i,vi) Relation.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/3.9.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.10.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/3.14a-f Konvergenz von Reihen.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
@@ -236,7 +218,6 @@
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Reihen.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/5.7 Lösungsnenge komplexer Gleichungen.pdf",
     "FH_Münster/Semester I/Mathematik I/Übungen/5.6 a,b,f,g Elementare Zusammenhänge bei komplexen Zahlen.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/5.5 a-h Exponentielle Darstellung komplexer Zahlen.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/exponentielle Darstellung.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/kartesisches Produkt.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Die Menge C.md",
@@ -258,7 +239,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Absolutbetrag.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Wurzelkriterium.md",
     "Bilder/Pasted image 20250827114855.png",
     "Bilder/Pasted image 20250827114720.png",
     "Bilder/Pasted image 20250730092243.png",
