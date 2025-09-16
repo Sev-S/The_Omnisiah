@@ -4,40 +4,87 @@
     "type": "split",
     "children": [
       {
-        "id": "7d4ef8dbb61be4b7",
+        "id": "4987a2af96345a53",
         "type": "tabs",
         "children": [
           {
-            "id": "da3e10296fde2cc6",
+            "id": "59d132323a8c6504",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
+                "file": "FH_Münster/Semester II/Elektronik II/Übungen/1 Ausgangskennlinienfeld.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 611,
+                "zoom": 1.9150793668525867
+              },
+              "icon": "lucide-file-text",
+              "title": "1 Ausgangskennlinienfeld"
+            }
+          },
+          {
+            "id": "273049861e691f4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Übungsstunde Mitschrift"
+            }
+          },
+          {
+            "id": "76f7b1163b80ea5d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 846,
+                "zoom": 1.9149365047369482
+              },
+              "icon": "lucide-file-text",
+              "title": "uebung_OP"
+            }
+          },
+          {
+            "id": "308df90f4c45c55f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FH_Münster/Semester II/Elektronik II/Vorlesungsunterlagen/Elektronik - Operationsverstaerker.pdf",
                 "page": 1,
                 "zoom": 1
               },
               "icon": "lucide-file-text",
-              "title": "Mathematik I Übungen V2"
+              "title": "Elektronik - Operationsverstaerker"
             }
           },
           {
-            "id": "6bdeb854d9b06beb",
+            "id": "075523ad780ff80f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FH_Münster/Semester I/Mathematik I/Übungen/Gedankenklausur Lösung.pdf",
-                "page": 3,
-                "left": -6,
-                "top": 458,
-                "zoom": 2.5052742616033754
+                "file": "FH_Münster/Semester II/Elektronik II/Übungsstunde Handmitschrift.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 846,
+                "zoom": 1.915079366852587
               },
               "icon": "lucide-file-text",
-              "title": "Gedankenklausur Lösung"
+              "title": "Übungsstunde Handmitschrift"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,22 +249,25 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "da3e10296fde2cc6",
+  "active": "308df90f4c45c55f",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.pdf",
+    "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Vorlesung Operationsverstärker.md",
+    "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/1 Ausgangskennlinienfeld.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/2 Inverter mit p-Kanal-Transistor.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungsstunde Handmitschrift.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP_og.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_Bearbeitung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_A_Lösung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Formelzettel.md",
     "FH_Münster/Semester I/Mathematik I/Übungen/Gedankenklausur Lösung.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Probeklausur.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Mathematik I Übungen V2.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/3.9.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Fakultät und Binomialkoeffizient.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.23 Äquivalenzklassen.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/1.21 i,vi) Relation.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/3.10.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/3.14a-f Konvergenz von Reihen.pdf",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für uneigentliche Grenzwerte.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Reihen.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/5.7 Lösungsnenge komplexer Gleichungen.pdf",
-    "FH_Münster/Semester I/Mathematik I/Übungen/5.6 a,b,f,g Elementare Zusammenhänge bei komplexen Zahlen.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/exponentielle Darstellung.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/kartesisches Produkt.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Die Menge C.md",
@@ -227,7 +277,6 @@
     "Random/DnD/Mortarion für DnD.md",
     "Random/DnD/Lillypsis.md",
     "Random/Warhammer/30k Death Guard army list.md",
-    "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Stetigkeit.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 1 - Einführende Messungen in Wechselstromnetzwerke.md",
     "FH_Münster/Semester II/Grundgebiete der Elektrotechnik II/Praktika/Praktikum 2 - Reihenschingkreise.md",
@@ -237,8 +286,6 @@
     "FH_Münster/Semester I/Mathematik I/Definitionen/Periodische Funktion.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Umkehrabbildung.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Absolutbetrag.md",
-    "FH_Münster/Semester I/Mathematik I/Definitionen/Gerade und ungerade Fukntion.md",
-    "FH_Münster/Semester I/Mathematik I/Sätze/Quotientenkriterium.md",
     "Bilder/Pasted image 20250827114855.png",
     "Bilder/Pasted image 20250827114720.png",
     "Bilder/Pasted image 20250730092243.png",
