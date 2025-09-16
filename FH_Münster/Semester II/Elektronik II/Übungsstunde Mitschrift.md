@@ -1,4 +1,4 @@
-[[Übungsstunde Handmitschrift.pdf]]
+y[[Übungsstunde Handmitschrift.pdf]]
 [[EL2_Pruefung_WS2425_A_Lösung.pdf]]
 ## Zu OPVs
 - OPV kommen 100% in der Klausur dran
