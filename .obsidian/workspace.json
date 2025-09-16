@@ -16,8 +16,8 @@
                 "file": "FH_Münster/Semester II/Elektronik II/Übungen/1 Ausgangskennlinienfeld.pdf",
                 "page": 1,
                 "left": -8,
-                "top": 611,
-                "zoom": 1.9150793668525867
+                "top": 615,
+                "zoom": 1.915079366852587
               },
               "icon": "lucide-file-text",
               "title": "1 Ausgangskennlinienfeld"
@@ -53,8 +53,7 @@
               "title": "Übungsstunde Handmitschrift"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,12 +218,12 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "273049861e691f4a",
+  "active": "59d132323a8c6504",
   "lastOpenFiles": [
+    "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.pdf",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsunterlagen/Elektronik - Operationsverstaerker.pdf",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Vorlesung Operationsverstärker.md",
-    "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/1 Ausgangskennlinienfeld.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/2 Inverter mit p-Kanal-Transistor.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungsstunde Handmitschrift.pdf",
@@ -234,7 +233,6 @@
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_A_Lösung.pdf",
     "FH_Münster/Semester II/Elektronik II/Formelzettel.md",
-    "FH_Münster/Semester I/Mathematik I/Übungen/Gedankenklausur Lösung.pdf",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Fakultät und Binomialkoeffizient.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für uneigentliche Grenzwerte.md",
