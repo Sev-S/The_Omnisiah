@@ -27,12 +27,16 @@
             "id": "3ea5001cb549decc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md"
+                "file": "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-22.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 756,
+                "zoom": 1.1168067226890757
               },
-              "icon": "excalidraw-icon",
-              "title": "05-15"
+              "icon": "lucide-file-text",
+              "title": "05-22"
             }
           },
           {
@@ -65,7 +69,8 @@
               "title": "Übungsstunde Handmitschrift"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ef0193f47c63fe41",
@@ -79,9 +84,9 @@
               "state": {
                 "file": "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
                 "page": 3,
-                "left": -17,
-                "top": 2,
-                "zoom": 0.8995098039215687
+                "left": -15,
+                "top": 5,
+                "zoom": 1.0857843137254901
               },
               "icon": "lucide-file-text",
               "title": "EL2-Uebung"
@@ -144,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "e3b7bf3259b29e1f",
@@ -252,26 +258,26 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "074d6a78ab016269",
+  "active": "3ea5001cb549decc",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/Elektronik II/Übungen/4 CMOS-Inverter.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-22.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/1 Ausgangskennlinienfeld.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_A_Lösung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_Bearbeitung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/4 CMOS-Inverter.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-06.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-03-2.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-24.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
     "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/3 MOS-Inverter.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/2 Inverter mit p-Kanal-Transistor.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/03-27.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/1 Ausgangskennlinienfeld.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/uebung_OP.pdf",
-    "FH_Münster/Semester II/Elektronik II/Vorlesungsunterlagen/Elektronik - Operationsverstaerker.pdf",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Vorlesung Operationsverstärker.md",
-    "FH_Münster/Semester II/Elektronik II/Übungsstunde Handmitschrift.pdf",
     "FH_Münster/Semester II/Elektronik II/Formelzettel.md",
     "FH_Münster/Semester I/Mathematik I/Definitionen/Fakultät und Binomialkoeffizient.md",
     "FH_Münster/Semester I/Mathematik I/Sätze/Rechenregel für konvergente Folgen.md",
