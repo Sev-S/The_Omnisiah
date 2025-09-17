@@ -15,9 +15,9 @@
               "state": {
                 "file": "FH_Münster/Semester II/Elektronik II/Übungen/4 CMOS-Inverter.pdf",
                 "page": 1,
-                "left": -16,
-                "top": 753,
-                "zoom": 0.9247817468880256
+                "left": -13,
+                "top": 757,
+                "zoom": 1.1162896835732843
               },
               "icon": "lucide-file-text",
               "title": "4 CMOS-Inverter"
@@ -59,18 +59,18 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FH_Münster/Semester II/Elektronik II/Übungsstunde Handmitschrift.pdf",
+                "file": "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-22.pdf",
                 "page": 1,
-                "left": -8,
-                "top": 846,
-                "zoom": 1.915079366852587
+                "left": -13,
+                "top": 764,
+                "zoom": 1.1168067226890757
               },
               "icon": "lucide-file-text",
-              "title": "Übungsstunde Handmitschrift"
+              "title": "05-22"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "ef0193f47c63fe41",
@@ -83,9 +83,9 @@
               "type": "pdf",
               "state": {
                 "file": "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
-                "page": 3,
+                "page": 5,
                 "left": -15,
-                "top": 5,
+                "top": 39,
                 "zoom": 1.0857843137254901
               },
               "icon": "lucide-file-text",
@@ -258,24 +258,24 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "3ea5001cb549decc",
+  "active": "a89b038a633f5a43",
   "lastOpenFiles": [
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-22.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/1 Ausgangskennlinienfeld.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_A_Lösung.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_Bearbeitung.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/4 CMOS-Inverter.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-06.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-03-2.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-15.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-24.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-03-2.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-06.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/05-08.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/4 CMOS-Inverter.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/Uebung_16-18_Lsg.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/Uebung_13-15_Lsg.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungsstunde Mitschrift.md",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2-Uebung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungsstunde Handmitschrift.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/1 Ausgangskennlinienfeld.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/EL2_Pruefung_WS2425_A_Lösung.pdf",
+    "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-10.md",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/04-03.md",
-    "FH_Münster/Semester II/Elektronik II/Übungen/3 MOS-Inverter.pdf",
-    "FH_Münster/Semester II/Elektronik II/Übungen/2 Inverter mit p-Kanal-Transistor.pdf",
     "FH_Münster/Semester II/Elektronik II/Übungen/Lösungen/03-27.md",
     "FH_Münster/Semester II/Elektronik II/Vorlesungsmitschrift/Vorlesung Operationsverstärker.md",
     "FH_Münster/Semester II/Elektronik II/Formelzettel.md",
